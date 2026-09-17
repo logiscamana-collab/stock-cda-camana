@@ -1,14 +1,13 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-17T18:19:43",
+  "updated": "2026-09-17T18:31:01",
   "filters": {
     "Status": "En circulación",
     "Familia": "Sprite"
   },
   "options": {
     "Familia": [
-      "agua",
       "Agua",
       "Cerveza",
       "Coca Cola",
@@ -834,7 +833,7 @@
       "SAP": 257044,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM  MANZANA C/G 1.5X6",
       "STOCK PT": 0,
-      "Familia": "agua",
+      "Familia": "Agua",
       "Status": "En circulación"
     },
     {
