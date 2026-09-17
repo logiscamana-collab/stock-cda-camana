@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-17T18:37:31",
+  "updated": "2026-09-17T18:55:59",
   "filters": {
     "Status": "En circulación",
     "Familia": "Sprite"
