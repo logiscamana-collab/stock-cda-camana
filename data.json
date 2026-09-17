@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-17T18:18:41",
+  "updated": "2026-09-17T18:19:43",
   "filters": {
     "Status": "En circulación",
     "Familia": "Sprite"
@@ -33,7 +33,7 @@
       "BASIS": 102,
       "SAP": 250030,
       "DESCRIPCIÓN": "INCA KOLA VR 296 x24",
-      "STOCK PT": 174.67,
+      "STOCK PT": 184.67,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
