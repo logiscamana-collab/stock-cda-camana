@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stock CDA Camana</title>
+<style>
+:root{--primary:#123b63;--accent:#1f5f91;--bg:#f4f7fb;--card:#fff;--text:#17212b;--muted:#687585;--border:#e3e9ef;--ok:#18794e;--bad:#b42318}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font-family:Arial,Helvetica,sans-serif}
+header{background:linear-gradient(135deg,var(--primary),var(--accent));color:#fff;padding:28px 20px;box-shadow:0 4px 18px rgba(18,59,99,.18)}
+.header{max-width:1200px;margin:auto} h1{margin:0;font-size:clamp(27px,4vw,38px)} .sub{margin-top:7px;opacity:.85}
+main{max-width:1200px;margin:28px auto;padding:0 18px 45px}.card{background:var(--card);border:1px solid var(--border);border-radius:16px;overflow:hidden;box-shadow:0 8px 28px rgba(31,50,70,.07)}
+.top{padding:22px;border-bottom:1px solid var(--border)} .row{display:flex;justify-content:space-between;gap:14px;align-items:center;flex-wrap:wrap}
+h2{margin:0;font-size:22px}.meta{color:var(--muted);font-size:13px;margin-top:6px}.controls{display:flex;gap:10px;margin-top:17px}
+input{flex:1;min-width:220px;padding:12px 14px;border:1px solid #ccd5df;border-radius:10px;font-size:14px;outline:none}
+button{padding:12px 16px;border:0;border-radius:10px;background:var(--primary);color:#fff;font-weight:600;cursor:pointer} button:hover{background:#0d2e4d}
+.wrap{overflow:auto} table{width:100%;border-collapse:collapse;min-width:650px} th,td{padding:13px 16px;border-bottom:1px solid var(--border);text-align:left;font-size:14px}
+th{background:#f8fafc;color:#445365;font-size:12px;text-transform:uppercase;letter-spacing:.04em} tbody tr:hover{background:#f8fbff}
+.stock{font-weight:700}.positive{color:var(--ok)}.zero{color:var(--bad)}
+.status{display:inline-flex;align-items:center;gap:7px;font-size:13px;color:var(--muted)} .dot{width:8px;height:8px;border-radius:50%;background:var(--ok)}
+.empty{text-align:center;padding:35px;color:var(--muted);display:none} footer{text-align:center;color:var(--muted);font-size:12px;padding:18px}
+@media(max-width:650px){.controls{flex-direction:column}button{width:100%}}
+</style>
+</head>
+<body>
+<header><div class="header"><h1>Stock CDA Camana</h1><div class="sub">Consulta de inventario y stock de ventas</div></div></header>
+<main><section class="card">
+<div class="top">
+<div class="row">
+<div><h2>Stock Ventas</h2><div class="meta" id="meta">Cargando datos...</div></div>
+<div class="status"><span class="dot"></span><span id="status">Conectando...</span></div>
+</div>
+<div class="controls"><input id="search" type="search" placeholder="Buscar por BASIS, SAP o descripción..." oninput="filterTable()"><button onclick="loadData()">↻ Actualizar</button></div>
+</div>
+<div class="wrap"><table id="table"><thead><tr id="head"></tr></thead><tbody id="body"></tbody></table><div id="empty" class="empty">No se encontraron productos.</div></div>
+</section></main>
+<footer>Stock CDA Camana · Panel de consulta</footer>
+<script>
+let allRows=[], headers=[];
+async function loadData(){
+  try{
+    const r=await fetch("data.json?ts="+Date.now(),{cache:"no-store"});
+    if(!r.ok) throw new Error("No se encontró data.json");
+    const d=await r.json(); allRows=d.rows||[]; headers=Object.keys(allRows[0]||{});
+    render(); document.getElementById("status").textContent="Datos actualizados";
+    document.getElementById("meta").textContent=`${allRows.length} registros · Actualizado: ${d.updated||"—"}`;
+  }catch(e){
+    document.getElementById("status").textContent="No se pudo cargar";
+    document.getElementById("meta").textContent="Ejecuta actualizar_stock.py junto al Excel.";
+  }
+}
+function render(){
+  document.getElementById("head").innerHTML=headers.map(h=>`<th>${esc(h)}</th>`).join("");
+  const q=document.getElementById("search").value.toLowerCase().trim();
+  const rows=allRows.filter(x=>headers.map(h=>String(x[h]??"")).join(" ").toLowerCase().includes(q));
+  document.getElementById("body").innerHTML=rows.map(x=>"<tr>"+headers.map((h,i)=>{
+    const v=x[h]??"";
+    const cls=(i===headers.length-1&&typeof v==="number")?(v>0?"stock positive":"stock zero"):"";
+    return `<td class="${cls}">${esc(v)}</td>`;
+  }).join("")+"</tr>").join("");
+  document.getElementById("empty").style.display=rows.length?"none":"block";
+}
+function filterTable(){render()}
+function esc(v){return String(v).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
+loadData();
+setInterval(loadData,60000);
+</script>
+</body>
+</html>

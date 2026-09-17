@@ -1,0 +1,30 @@
+{
+  "sheet": "Stock Ventas",
+  "updated": "2026-09-17T17:26:30",
+  "rows": [
+    {
+      "BASIS": 949,
+      "SAP": 256905,
+      "DESCRIPCIÓN": "SPRITE PET 2.25 X06  RF",
+      "STOCK  PT": 253
+    },
+    {
+      "BASIS": 958,
+      "SAP": 256919,
+      "DESCRIPCIÓN": "SPRITE PET500x12 RF",
+      "STOCK  PT": 162.08
+    },
+    {
+      "BASIS": 960,
+      "SAP": 256921,
+      "DESCRIPCIÓN": "SPRITE PET 300MLX6 REFORMULADA",
+      "STOCK  PT": 43.5
+    },
+    {
+      "BASIS": 376,
+      "SAP": 252618,
+      "DESCRIPCIÓN": "SCHWEPPES GA PET *6 1500 ML",
+      "STOCK  PT": 0.33
+    }
+  ]
+}
