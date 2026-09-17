@@ -48,6 +48,7 @@ th{background:#f7f9fb;color:#345b7e;font-size:12px;letter-spacing:.04em}.stock-c
 </main>
 <script>
 let data={rows:[],options:{},filters:{}};
+let firstLoad=true;
 const $=id=>document.getElementById(id);
 function fillFamilia(values,current){const el=$('familia');el.innerHTML='';const all=document.createElement('option');all.value='';all.textContent='Todos';el.appendChild(all);(values||[]).forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;el.appendChild(o)});el.value=(values||[]).includes(current)?current:'';}
 function fmt(v){return v===null||v===undefined||v===''?'':Number.isFinite(Number(v))?Number(v).toLocaleString('es-PE',{maximumFractionDigits:2}):v}
@@ -57,12 +58,23 @@ function stockLabel(v){const c=stockClass(v);return c==='verde'?'Verde':c==='ama
 function render(){
 const f=$('familia').value,sem=$('semaforo').value,q=$('q').value.trim().toLowerCase();
 const rows=data.rows.filter(r=>{const s=String(r.Status??'').trim().toLowerCase();const circulation=s==='en circulación'||s==='en circulacion';const stock=stockClass(r['STOCK PT']);return circulation&&(!f||r.Familia===f)&&(!sem||stock===sem)&&(!q||[r.BASIS,r.SAP,r['DESCRIPCIÓN']].join(' ').toLowerCase().includes(q));});
+rows.sort((a,b)=>{
+  const na=stockNumber(a['STOCK PT']), nb=stockNumber(b['STOCK PT']);
+  if(na===null&&nb===null)return 0;
+  if(na===null)return 1;
+  if(nb===null)return -1;
+  return nb-na;
+});
 $('count').textContent=rows.length+' productos';
 $('body').innerHTML=rows.length?rows.map(r=>{const c=stockClass(r['STOCK PT']);return `<tr><td>${r.BASIS??''}</td><td>${r.SAP??''}</td><td>${r['DESCRIPCIÓN']??''}</td><td class="stock-cell">${fmt(r['STOCK PT'])}${c?` <span class="semaforo ${c}" title="${stockLabel(r['STOCK PT'])}"></span>`:''}</td></tr>`}).join(''):'<tr><td colspan="4" class="empty">No hay productos con los filtros seleccionados.</td></tr>';}
 async function load(){
 try{const familiaActual=$('familia').value,semaforoActual=$('semaforo').value,busquedaActual=$('q').value;
 const res=await fetch('data.json?nocache='+Date.now(),{cache:'no-store',headers:{'Cache-Control':'no-cache'}});if(!res.ok)throw new Error('HTTP '+res.status);
-data=await res.json();fillFamilia(data.options?.Familia||[],familiaActual||data.filters?.Familia||'');$('semaforo').value=semaforoActual;$('q').value=busquedaActual;
+data=await res.json();
+fillFamilia(data.options?.Familia||[], firstLoad ? '' : familiaActual);
+$('semaforo').value=firstLoad ? '' : semaforoActual;
+$('q').value=busquedaActual;
+firstLoad=false;
 const total=data.rows.filter(r=>{const s=String(r.Status??'').trim().toLowerCase();return s==='en circulación'||s==='en circulacion';}).length;
 $('meta').textContent=total+' productos en circulación · Actualizado: '+new Date(data.updated).toLocaleString('es-PE');render();
 }catch(e){$('meta').textContent='No se pudo cargar data.json';$('body').innerHTML='<tr><td colspan="4" class="empty">Error al cargar los datos.</td></tr>';console.error(e)}}
