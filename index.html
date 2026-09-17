@@ -1,62 +1,31 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Stock CDA Camana</title>
 <style>
-:root{--primary:#123b63;--accent:#1f5f91;--bg:#f4f7fb;--card:#fff;--text:#17212b;--muted:#687585;--border:#e3e9ef;--ok:#18794e;--bad:#b42318}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Arial,Helvetica,sans-serif}
-header{background:linear-gradient(135deg,var(--primary),var(--accent));color:#fff;padding:28px 20px;box-shadow:0 4px 18px rgba(18,59,99,.18)}
-.header{max-width:1200px;margin:auto}h1{margin:0;font-size:clamp(27px,4vw,38px)}.sub{margin-top:7px;opacity:.85}
-main{max-width:1200px;margin:28px auto;padding:0 18px 45px}.card{background:var(--card);border:1px solid var(--border);border-radius:16px;overflow:hidden;box-shadow:0 8px 28px rgba(31,50,70,.07)}
-.top{padding:22px;border-bottom:1px solid var(--border)}.row{display:flex;justify-content:space-between;gap:14px;align-items:center;flex-wrap:wrap}h2{margin:0;font-size:22px}.meta{color:var(--muted);font-size:13px;margin-top:6px}
-.status{display:inline-flex;align-items:center;gap:7px;font-size:13px;color:var(--muted)}.dot{width:8px;height:8px;border-radius:50%;background:var(--ok)}
-.filters{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}.filter{background:#f5f8fb;border:1px solid var(--border);border-radius:10px;padding:9px 12px;font-size:13px}.filter strong{color:#445365;margin-right:5px}.controls{display:flex;gap:10px;margin-top:15px}
-input{flex:1;min-width:220px;padding:12px 14px;border:1px solid #ccd5df;border-radius:10px;font-size:14px;outline:none}button{padding:12px 16px;border:0;border-radius:10px;background:var(--primary);color:#fff;font-weight:600;cursor:pointer}button:hover{background:#0d2e4d}
-.pivot-title{padding:16px 22px 10px;font-size:14px;font-weight:700;color:#445365;text-transform:uppercase;letter-spacing:.04em}.wrap{overflow:auto}
-table{width:100%;border-collapse:collapse;min-width:650px}th,td{padding:13px 16px;border-bottom:1px solid var(--border);text-align:left;font-size:14px}th{background:#f8fafc;color:#445365;font-size:12px;text-transform:uppercase;letter-spacing:.04em}tbody tr:hover{background:#f8fbff}.stock{font-weight:700}.positive{color:var(--ok)}.zero{color:var(--bad)}
-.empty{text-align:center;padding:35px;color:var(--muted);display:none}footer{text-align:center;color:var(--muted);font-size:12px;padding:18px}@media(max-width:650px){.controls{flex-direction:column}button{width:100%}}
-</style>
-</head>
+*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f3f6fa;color:#10243e}.header{background:#174a78;color:white;padding:24px max(24px,calc((100% - 1110px)/2))}.header h1{margin:0;font-size:36px}.header p{margin:7px 0 0;font-size:16px}.card{max-width:1160px;margin:28px auto;background:white;border:1px solid #dbe3ec;border-radius:16px;overflow:hidden;box-shadow:0 8px 24px rgba(20,50,80,.06)}.top{padding:22px}.title{display:flex;justify-content:space-between;gap:20px;align-items:center}.title h2{margin:0;font-size:24px}.meta{margin-top:6px;color:#54708c;font-size:13px}.ok{color:#287d50;font-size:13px}.ok:before{content:'●';margin-right:7px}.filters{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:18px}.field label{display:block;font-size:12px;font-weight:700;margin-bottom:6px;color:#3e5870}.field select,.search input{width:100%;height:42px;border:1px solid #cbd7e3;border-radius:9px;padding:0 12px;font-size:14px;background:white}.search{display:flex;gap:10px;margin-top:12px}.search input{flex:1}.btn{border:0;border-radius:9px;background:#174a78;color:white;padding:0 18px;font-weight:700;cursor:pointer}.section{border-top:1px solid #dbe3ec}.section-title{padding:16px 22px 10px;font-size:14px;font-weight:700;color:#345b7e;text-transform:uppercase}.table-wrap{overflow:auto}.count{padding:0 22px 12px;color:#54708c;font-size:13px}table{width:100%;border-collapse:collapse;min-width:760px}th,td{padding:13px 16px;border-top:1px solid #dbe3ec;text-align:left;font-size:14px}th{background:#f7f9fb;color:#345b7e;font-size:12px;letter-spacing:.04em}td:last-child,th:last-child{text-align:right}.empty{text-align:center;padding:30px;color:#687d92}.footer{padding:14px 22px;color:#71869a;font-size:12px;border-top:1px solid #dbe3ec}@media(max-width:700px){.header h1{font-size:28px}.filters{grid-template-columns:1fr}.title{align-items:flex-start;flex-direction:column}}
+</style></head>
 <body>
-<header><div class="header"><h1>Stock CDA Camana</h1><div class="sub">Tabla dinámica · Stock Ventas</div></div></header>
-<main><section class="card">
-<div class="top">
-<div class="row"><div><h2>Stock Ventas</h2><div class="meta" id="meta">Cargando tabla dinámica...</div></div><div class="status"><span class="dot"></span><span id="status">Conectando...</span></div></div>
-<div id="filters" class="filters"></div>
-<div class="controls"><input id="search" type="search" placeholder="Buscar por BASIS, SAP o descripción..." oninput="filterTable()"><button onclick="loadData()">↻ Actualizar</button></div>
+<header class="header"><h1>Stock CDA Camana</h1><p>Tabla dinámica · Stock Ventas</p></header>
+<main class="card">
+<section class="top">
+<div class="title"><div><h2>Stock Ventas</h2><div id="meta" class="meta">Cargando...</div></div><div class="ok">Datos actualizados</div></div>
+<div class="filters">
+<div class="field"><label for="status">Status</label><select id="status"></select></div>
+<div class="field"><label for="familia">Familia</label><select id="familia"></select></div>
 </div>
-<div class="pivot-title">Tabla dinámica</div>
-<div class="wrap"><table id="table"><thead><tr id="head"></tr></thead><tbody id="body"></tbody></table><div id="empty" class="empty">No se encontraron productos.</div></div>
-</section></main><footer>Stock CDA Camana · Datos publicados desde la hoja Stock Ventas</footer>
+<div class="search"><input id="q" placeholder="Buscar por BASIS, SAP o descripción..."><button class="btn" id="refresh">↻ Actualizar</button></div>
+</section>
+<section class="section"><div class="section-title">Tabla dinámica</div><div id="count" class="count"></div><div class="table-wrap"><table><thead><tr><th>BASIS</th><th>SAP</th><th>DESCRIPCIÓN</th><th>STOCK PT</th></tr></thead><tbody id="body"></tbody></table></div></section>
+<div class="footer">Los filtros se aplican sobre la información de la hoja Ingreso Inv. Sap.</div>
+</main>
 <script>
-let allRows=[],headers=[],currentData={};
-async function loadData(){
- try{
-  const r=await fetch("data.json?ts="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error("No se encontró data.json");
-  currentData=await r.json();allRows=currentData.rows||[];headers=Object.keys(allRows[0]||{});renderFilters();render();
-  document.getElementById("status").textContent="Datos actualizados";
-  document.getElementById("meta").textContent=`${allRows.length} registros · Actualizado: ${formatDate(currentData.updated)}`;
- }catch(e){document.getElementById("status").textContent="No se pudo cargar";document.getElementById("meta").textContent="No se pudo cargar la tabla dinámica.";}
-}
-function renderFilters(){
- const box=document.getElementById("filters"),f=currentData.filters||{},keys=Object.keys(f);
- if(!keys.length){box.innerHTML="";return}
- box.innerHTML=keys.map(k=>`<div class="filter"><strong>${esc(k)}:</strong>${esc(f[k])}</div>`).join("");
-}
-function render(){
- document.getElementById("head").innerHTML=headers.map(h=>`<th>${esc(h)}</th>`).join("");
- const q=document.getElementById("search").value.toLowerCase().trim();
- const rows=allRows.filter(x=>headers.map(h=>String(x[h]??"")).join(" ").toLowerCase().includes(q));
- document.getElementById("body").innerHTML=rows.map(x=>"<tr>"+headers.map((h,i)=>{const v=x[h]??"";const cls=(h.trim()==="STOCK PT"&&typeof v==="number")?(v>0?"stock positive":"stock zero"):"";return `<td class="${cls}">${formatValue(v,h)}</td>`}).join("")+"</tr>").join("");
- document.getElementById("empty").style.display=rows.length?"none":"block";
-}
-function filterTable(){render()}
-function formatValue(v,h){if(typeof v==='number'&&h.trim()==='STOCK PT')return Number.isInteger(v)?String(v):v.toFixed(2).replace(/0+$/,'').replace(/\.$/,'');return esc(v)}
-function formatDate(v){if(!v)return "—";const d=new Date(v);return isNaN(d)?esc(v):d.toLocaleString('es-PE')}
-function esc(v){return String(v).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
-loadData();setInterval(loadData,60000);
-</script>
-</body>
-</html>
+let data={rows:[],options:{},filters:{}};
+const $=id=>document.getElementById(id);
+function fillSelect(el,values,current,label){el.innerHTML=''; const all=document.createElement('option');all.value='';all.textContent='Todos';el.appendChild(all);(values||[]).forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;el.appendChild(o)}); if(values.includes(current)) el.value=current;}
+function fmt(v){return v===null||v===undefined||v===''?'':Number.isFinite(Number(v))?Number(v).toLocaleString('es-PE',{maximumFractionDigits:2}):v}
+function render(){const s=$('status').value,f=$('familia').value,q=$('q').value.trim().toLowerCase();let rows=data.rows.filter(r=>(!s||r.Status===s)&&(!f||r.Familia===f)&&(!q||[r.BASIS,r.SAP,r['DESCRIPCIÓN']].join(' ').toLowerCase().includes(q)));$('count').textContent=rows.length+' productos';$('body').innerHTML=rows.length?rows.map(r=>`<tr><td>${r.BASIS??''}</td><td>${r.SAP??''}</td><td>${r['DESCRIPCIÓN']??''}</td><td>${fmt(r['STOCK PT'])}</td></tr>`).join(''):'<tr><td colspan="4" class="empty">No hay productos con los filtros seleccionados.</td></tr>';}
+async function load(){try{const res=await fetch('data.json?'+Date.now(),{cache:'no-store'});if(!res.ok)throw new Error('HTTP '+res.status);data=await res.json();fillSelect($('status'),data.options.Status,data.filters.Status);fillSelect($('familia'),data.options.Familia,data.filters.Familia);$('meta').textContent=data.rows.length+' productos · Actualizado: '+new Date(data.updated).toLocaleString('es-PE');render();}catch(e){$('meta').textContent='No se pudo cargar data.json';$('body').innerHTML='<tr><td colspan="4" class="empty">Error al cargar los datos.</td></tr>';console.error(e)}}
+$('status').addEventListener('change',render);$('familia').addEventListener('change',render);$('q').addEventListener('input',render);$('refresh').addEventListener('click',load);load();
+</script></body></html>

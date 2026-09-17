@@ -1,0 +1,9 @@
+{
+  "excel_filename": "09 BEBIDA CAMANA SETIEMBRE 2026 S.I.xlsx",
+  "sheet_name": "Ingreso Inv. Sap",
+  "pivot_sheet_name": "Stock Ventas",
+  "github_username": "logiscamana-collab",
+  "github_repository": "stock-cda-camana",
+  "poll_seconds": 5,
+  "commit_message": "Actualizar Stock Ventas"
+}
