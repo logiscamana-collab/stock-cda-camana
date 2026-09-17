@@ -1,15 +1,15 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-17T22:43:49",
+  "updated": "2026-09-17T17:58:26",
   "filters": {
     "Status": "En circulación",
     "Familia": "Sprite"
   },
   "options": {
     "Familia": [
-      "Agua",
       "agua",
+      "Agua",
       "Cerveza",
       "Coca Cola",
       "Energizante",
@@ -393,7 +393,7 @@
       "BASIS": 960,
       "SAP": 256921,
       "DESCRIPCIÓN": "SPRITE PET 300MLX6 REFORMULADA",
-      "STOCK PT": 43.5,
+      "STOCK PT": 37.5,
       "Familia": "Sprite",
       "Status": "En circulación"
     },
