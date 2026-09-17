@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stock CDA Camana</title>
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f3f6fa;color:#10243e}
+.header{background:#174a78;color:white;padding:24px max(24px,calc((100% - 1110px)/2))}
+.header h1{margin:0;font-size:36px}.header p{margin:7px 0 0;font-size:16px}
+.card{max-width:1160px;margin:28px auto;background:white;border:1px solid #dbe3ec;border-radius:16px;overflow:hidden;box-shadow:0 8px 24px rgba(20,50,80,.06)}
+.top{padding:22px}.title{display:flex;justify-content:space-between;gap:20px;align-items:center}
+.title h2{margin:0;font-size:24px}.meta{margin-top:6px;color:#54708c;font-size:13px}
+.ok{color:#287d50;font-size:13px}.ok:before{content:'●';margin-right:7px}.ok.loading{color:#9a6a00}
+.filters{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:18px}
+.field label{display:block;font-size:12px;font-weight:700;margin-bottom:6px;color:#3e5870}
+.field select,.search input{width:100%;height:42px;border:1px solid #cbd7e3;border-radius:9px;padding:0 12px;font-size:14px;background:white}
+.search{display:flex;gap:10px;margin-top:12px}.search input{flex:1}
+.btn{border:0;border-radius:9px;background:#174a78;color:white;padding:0 18px;font-weight:700;cursor:pointer}.btn:disabled{opacity:.65;cursor:wait}
+.section{border-top:1px solid #dbe3ec}.section-title{padding:16px 22px 10px;font-size:14px;font-weight:700;color:#345b7e;text-transform:uppercase}
+.table-wrap{overflow:auto}.count{padding:0 22px 12px;color:#54708c;font-size:13px}
+table{width:100%;border-collapse:collapse;min-width:760px}th,td{padding:13px 16px;border-top:1px solid #dbe3ec;text-align:left;font-size:14px}
+th{background:#f7f9fb;color:#345b7e;font-size:12px;letter-spacing:.04em}td:last-child,th:last-child{text-align:right}
+.empty{text-align:center;padding:30px;color:#687d92}.footer{padding:14px 22px;color:#71869a;font-size:12px;border-top:1px solid #dbe3ec}
+@media(max-width:700px){.header h1{font-size:28px}.filters{grid-template-columns:1fr}.title{align-items:flex-start;flex-direction:column}}
+</style>
+</head>
+<body>
+<header class="header"><h1>Stock CDA Camana</h1><p>Tabla dinámica · Stock Ventas</p></header>
+<main class="card">
+<section class="top">
+<div class="title"><div><h2>Stock Ventas</h2><div id="meta" class="meta">Cargando...</div></div><div id="state" class="ok">Datos actualizados</div></div>
+<div class="filters">
+<div class="field"><label for="status">Status</label><select id="status"></select></div>
+<div class="field"><label for="familia">Familia</label><select id="familia"></select></div>
+</div>
+<div class="search"><input id="q" placeholder="Buscar por BASIS, SAP o descripción..."><button class="btn" id="refresh">↻ Actualizar</button></div>
+</section>
+<section class="section"><div class="section-title">Tabla dinámica</div><div id="count" class="count"></div><div class="table-wrap"><table><thead><tr><th>BASIS</th><th>SAP</th><th>DESCRIPCIÓN</th><th>STOCK PT</th></tr></thead><tbody id="body"></tbody></table></div></section>
+<div class="footer">Los filtros se aplican sobre la información de la hoja Ingreso Inv. Sap. La página comprueba automáticamente si hay datos nuevos cada 15 segundos.</div>
+</main>
+<script>
+let data={rows:[],options:{},filters:{}};
+let firstLoad=true,loading=false;
+const AUTO_REFRESH_MS=15000;
+const $=id=>document.getElementById(id);
+
+function fillSelect(el,values,current){
+  el.innerHTML='';
+  const all=document.createElement('option'); all.value=''; all.textContent='Todos'; el.appendChild(all);
+  (values||[]).forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;el.appendChild(o)});
+  el.value=(current && [...el.options].some(o=>o.value===current))?current:'';
+}
+function fmt(v){return v===null||v===undefined||v===''?'':Number.isFinite(Number(v))?Number(v).toLocaleString('es-PE',{maximumFractionDigits:2}):v}
+function render(){
+  const s=$('status').value,f=$('familia').value,q=$('q').value.trim().toLowerCase();
+  const rows=data.rows.filter(r=>(!s||r.Status===s)&&(!f||r.Familia===f)&&(!q||[r.BASIS,r.SAP,r['DESCRIPCIÓN']].join(' ').toLowerCase().includes(q)));
+  $('count').textContent=rows.length+' productos';
+  $('body').innerHTML=rows.length?rows.map(r=>`<tr><td>${r.BASIS??''}</td><td>${r.SAP??''}</td><td>${r['DESCRIPCIÓN']??''}</td><td>${fmt(r['STOCK PT'])}</td></tr>`).join(''):'<tr><td colspan="4" class="empty">No hay productos con los filtros seleccionados.</td></tr>';
+}
+async function load(isAutomatic=false){
+  if(loading)return;
+  loading=true;
+  const previousStatus=$('status').value,previousFamilia=$('familia').value,previousSearch=$('q').value;
+  $('state').textContent='Actualizando...';$('state').classList.add('loading');$('refresh').disabled=true;
+  try{
+    const res=await fetch('data.json?nocache='+Date.now(),{cache:'no-store',headers:{'Cache-Control':'no-cache'}});
+    if(!res.ok)throw new Error('HTTP '+res.status);
+    data=await res.json();
+    const desiredStatus=firstLoad?'En Circulación':previousStatus;
+    const desiredFamilia=firstLoad?'':previousFamilia;
+    fillSelect($('status'),data.options?.Status||[],desiredStatus);
+    fillSelect($('familia'),data.options?.Familia||[],desiredFamilia);
+    $('q').value=previousSearch;
+    const updated=data.updated?new Date(data.updated).toLocaleString('es-PE'):'sin fecha';
+    $('meta').textContent=data.rows.length+' productos · Actualizado: '+updated;
+    $('state').textContent=isAutomatic?'Actualizado automáticamente':'Datos actualizados';
+    $('state').classList.remove('loading'); render(); firstLoad=false;
+  }catch(e){
+    $('state').textContent='No se pudo actualizar';$('state').classList.remove('loading');
+    $('meta').textContent='Se mantienen los datos disponibles. Reintentando automáticamente...';console.error(e);
+  }finally{loading=false;$('refresh').disabled=false;}
+}
+$('status').addEventListener('change',render);$('familia').addEventListener('change',render);$('q').addEventListener('input',render);$('refresh').addEventListener('click',()=>load(false));
+load(false);
+setInterval(()=>load(true),AUTO_REFRESH_MS);
+</script>
+</body>
+</html>
