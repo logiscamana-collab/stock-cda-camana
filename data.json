@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-17T18:55:59",
+  "updated": "2026-09-17T19:40:48",
   "filters": {
     "Status": "En circulación",
     "Familia": "Sprite"
@@ -594,7 +594,7 @@
       "DESCRIPCIÓN": "COCA COLA VR625x12",
       "STOCK PT": 0,
       "Familia": "Coca Cola",
-      "Status": "En circulación"
+      "Status": "Retirar"
     },
     {
       "BASIS": 823,
@@ -794,7 +794,7 @@
       "DESCRIPCIÓN": "FANTA MANZANA VERDE PET 300MLX06",
       "STOCK PT": 0,
       "Familia": "Fanta",
-      "Status": "En circulación"
+      "Status": "Retirar"
     },
     {
       "BASIS": 644,
@@ -1034,7 +1034,7 @@
       "DESCRIPCIÓN": "COCA COLA SIN AZUCAR PET 600MLX12",
       "STOCK PT": 0,
       "Familia": "Coca Cola",
-      "Status": "En circulación"
+      "Status": "Retirar"
     },
     {
       "BASIS": 910,
@@ -1266,7 +1266,7 @@
       "DESCRIPCIÓN": "BENEDICTINO S/GAS PET 3LX4 S/P",
       "STOCK PT": 0,
       "Familia": "Agua",
-      "Status": "En circulación"
+      "Status": "Retirar"
     },
     {
       "BASIS": 933,
@@ -1354,7 +1354,7 @@
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PFM2500X6",
       "STOCK PT": 0.17,
       "Familia": "Agua",
-      "Status": "En circulación"
+      "Status": "Retirar"
     },
     {
       "BASIS": 1869,
