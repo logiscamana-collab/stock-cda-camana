@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-18T11:13:50",
+  "updated": "2026-09-18T11:17:22",
   "filters": {
     "Status": "En circulación",
     "Familia": "Sprite"
@@ -218,7 +218,7 @@
       "DESCRIPCIÓN": "POWERADE UVA PET 600MLX06",
       "STOCK PT": 0,
       "Familia": "Powerade",
-      "Status": "En circulación"
+      "Status": "Retirar"
     },
     {
       "BASIS": 977,
