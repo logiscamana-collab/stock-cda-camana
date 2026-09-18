@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-17T20:53:33",
+  "updated": "2026-09-18T07:51:49",
   "filters": {
     "Status": "En circulación",
     "Familia": "Sprite"
@@ -1520,7 +1520,7 @@
       "BASIS": 2206,
       "SAP": 257154,
       "DESCRIPCIÓN": "COCA COLA SIN AZUCAR PET 600MLX06",
-      "STOCK PT": 43.83,
+      "STOCK PT": 0,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
