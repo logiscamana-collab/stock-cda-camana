@@ -21,7 +21,18 @@ th{background:#f7f9fb;color:#345b7e;font-size:12px;letter-spacing:.04em}.stock-c
 .verde{background:#22a447}.amarillo{background:#f2c300}.anaranjado{background:#f28c28}.rojo{background:#df3030}
 .empty{text-align:center;padding:30px;color:#687d92}.footer{padding:14px 22px;color:#71869a;font-size:12px;border-top:1px solid #dbe3ec}
 .legend{display:flex;flex-wrap:wrap;gap:14px;margin-top:13px;font-size:12px;color:#54708c}.legend-item{display:flex;align-items:center;gap:6px}.legend .semaforo{margin:0;width:11px;height:11px}
-@media(max-width:700px){.header h1{font-size:28px}.filters{grid-template-columns:1fr}.title{align-items:flex-start;flex-direction:column}}
+@media(max-width:700px){
+body{font-size:13px;overflow-x:hidden}
+.header{padding:14px 12px}.header h1{font-size:22px}.header p{font-size:12px;margin-top:3px}
+.card{width:calc(100% - 16px);margin:8px auto;border-radius:10px;box-shadow:0 3px 12px rgba(20,50,80,.06)}
+.top{padding:12px}.title{align-items:flex-start;flex-direction:column;gap:5px}.title h2{font-size:18px}.meta{font-size:11px}.ok{font-size:11px}
+.filters{grid-template-columns:1fr;gap:8px;margin-top:10px}.field label{font-size:11px;margin-bottom:4px}.field select,.search input{height:36px;padding:0 9px;font-size:12px;border-radius:7px}
+.search{gap:7px;margin-top:8px}.btn{height:36px;padding:0 12px;font-size:12px;border-radius:7px}
+.legend{gap:7px 10px;margin-top:9px;font-size:10px}.legend .semaforo{width:9px;height:9px}
+.section-title{padding:11px 12px 7px;font-size:11px}.count{padding:0 12px 7px;font-size:11px}
+.table-wrap{overflow-x:hidden}table{width:100%;min-width:0;table-layout:fixed}th,td{padding:7px 5px;font-size:11px;line-height:1.2;overflow-wrap:anywhere}th{font-size:9px;letter-spacing:0}.stock-cell{font-size:11px;padding-right:5px}.semaforo{width:10px;height:10px;margin-left:4px}.footer{padding:9px 12px;font-size:10px;line-height:1.35}
+th:nth-child(1),td:nth-child(1){width:14%}th:nth-child(2),td:nth-child(2){width:18%}th:nth-child(3),td:nth-child(3){width:50%}th:nth-child(4),td:nth-child(4){width:18%}
+}
 </style>
 </head>
 <body>
