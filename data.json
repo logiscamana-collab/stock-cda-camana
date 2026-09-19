@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-19T09:55:04",
+  "updated": "2026-09-19T10:54:21",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
@@ -40,7 +40,7 @@
       "BASIS": 103,
       "SAP": 250032,
       "DESCRIPCIÓN": "INCA KOLA VR 1000 x12",
-      "STOCK PT": 220.83,
+      "STOCK PT": 400.83,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -88,7 +88,7 @@
       "BASIS": 123,
       "SAP": 250029,
       "DESCRIPCIÓN": "INCA KOLA 192 VRE x24",
-      "STOCK PT": 60.04,
+      "STOCK PT": 220.04,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -152,7 +152,7 @@
       "BASIS": 537,
       "SAP": 256813,
       "DESCRIPCIÓN": "INCA KOLA PET 1LX6 RF 2.0",
-      "STOCK PT": 398,
+      "STOCK PT": 638,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -176,7 +176,7 @@
       "BASIS": 164,
       "SAP": 252565,
       "DESCRIPCIÓN": "INCA KOLA 400 VR x20",
-      "STOCK PT": 209.9,
+      "STOCK PT": 289.9,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -192,7 +192,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 369.75,
+      "STOCK PT": 489.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -656,7 +656,7 @@
       "BASIS": 848,
       "SAP": 256971,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM MARACUYA C/G 625MLX15",
-      "STOCK PT": 3.4000000000000004,
+      "STOCK PT": 21.4,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -672,7 +672,7 @@
       "BASIS": 863,
       "SAP": 256983,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM LIMON PET S/G 625MLX15",
-      "STOCK PT": 46.73,
+      "STOCK PT": 136.73,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -984,7 +984,7 @@
       "BASIS": 22,
       "SAP": 257097,
       "DESCRIPCIÓN": "POWERADE MORA PET 1LX6 RF HF",
-      "STOCK PT": 74.17,
+      "STOCK PT": 104.17,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1008,7 +1008,7 @@
       "BASIS": 11,
       "SAP": 257104,
       "DESCRIPCIÓN": "INCA KOLA VR 625MLX12 - TP ROSCA-V2",
-      "STOCK PT": 63.25,
+      "STOCK PT": 163.25,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1080,7 +1080,7 @@
       "BASIS": 1392,
       "SAP": 252566,
       "DESCRIPCIÓN": "COCA COLA 400 VR x20",
-      "STOCK PT": 215.3,
+      "STOCK PT": 295.3,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1096,7 +1096,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 415.5,
+      "STOCK PT": 535.5,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1320,7 +1320,7 @@
       "BASIS": 5826,
       "SAP": 257075,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM ARANDANO PET 625MLX15",
-      "STOCK PT": 1,
+      "STOCK PT": 90,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1344,7 +1344,7 @@
       "BASIS": 989,
       "SAP": 256783,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "STOCK PT": 1433.93,
+      "STOCK PT": 1913.93,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1368,7 +1368,7 @@
       "BASIS": 1858,
       "SAP": 251604,
       "DESCRIPCIÓN": "SAN LUIS S/G PNR 1.5 LTX6",
-      "STOCK PT": 2257.17,
+      "STOCK PT": 2761.17,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1440,7 +1440,7 @@
       "BASIS": 19,
       "SAP": 257095,
       "DESCRIPCIÓN": "POWERADE MULTIFRUTAS PET 1LX06 HF",
-      "STOCK PT": 115.5,
+      "STOCK PT": 145.5,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1520,7 +1520,7 @@
       "BASIS": 2206,
       "SAP": 257154,
       "DESCRIPCIÓN": "COCA COLA SIN AZUCAR PET 600MLX06",
-      "STOCK PT": 22.83,
+      "STOCK PT": 222.83,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
