@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-21T08:19:10",
+  "updated": "2026-09-21T09:05:21",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
@@ -1472,7 +1472,7 @@
       "BASIS": 43,
       "SAP": 257126,
       "DESCRIPCIÓN": "FANTA UVA PET 500X12",
-      "STOCK PT": -0.25,
+      "STOCK PT": 23.75,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1480,7 +1480,7 @@
       "BASIS": 42,
       "SAP": 257125,
       "DESCRIPCIÓN": "FANTA UVA PET 300X12",
-      "STOCK PT": 57.42,
+      "STOCK PT": 32.42,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
