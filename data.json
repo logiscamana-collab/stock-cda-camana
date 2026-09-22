@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-22T08:26:27",
+  "updated": "2026-09-22T10:31:53",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
@@ -1000,7 +1000,7 @@
       "BASIS": 20,
       "SAP": 257096,
       "DESCRIPCIÓN": "POWERADE MORA PET 600MLX6 HF",
-      "STOCK PT": 469,
+      "STOCK PT": 478,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1016,7 +1016,7 @@
       "BASIS": 5242,
       "SAP": 256660,
       "DESCRIPCIÓN": "COCA COLA PET 2.5 LX6 RF.",
-      "STOCK PT": 1806,
+      "STOCK PT": 1805,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1520,7 +1520,7 @@
       "BASIS": 2206,
       "SAP": 257154,
       "DESCRIPCIÓN": "COCA COLA SIN AZUCAR PET 600MLX06",
-      "STOCK PT": 193.83,
+      "STOCK PT": 293.83,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
