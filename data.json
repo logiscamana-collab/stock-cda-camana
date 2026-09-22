@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-22T10:31:53",
+  "updated": "2026-09-22T10:35:26",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
@@ -96,7 +96,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 2082,
+      "STOCK PT": 2081,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
