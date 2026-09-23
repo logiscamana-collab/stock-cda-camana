@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-22T19:01:58",
+  "updated": "2026-09-22T21:11:17",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
@@ -32,7 +32,7 @@
       "BASIS": 102,
       "SAP": 250030,
       "DESCRIPCIÓN": "INCA KOLA VR 296 x24",
-      "STOCK PT": 182.67,
+      "STOCK PT": 177.17,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -40,7 +40,7 @@
       "BASIS": 103,
       "SAP": 250032,
       "DESCRIPCIÓN": "INCA KOLA VR 1000 x12",
-      "STOCK PT": 311.67,
+      "STOCK PT": 279,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -72,7 +72,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 1237.75,
+      "STOCK PT": 1118.5,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -88,7 +88,7 @@
       "BASIS": 123,
       "SAP": 250029,
       "DESCRIPCIÓN": "INCA KOLA 192 VRE x24",
-      "STOCK PT": 221.04,
+      "STOCK PT": 198.79,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -96,7 +96,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 2511,
+      "STOCK PT": 2272.17,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -120,7 +120,7 @@
       "BASIS": 2037,
       "SAP": 256500,
       "DESCRIPCIÓN": "INCA KOLA  PET 300MLX6-CRCG ET/PR",
-      "STOCK PT": 775.33,
+      "STOCK PT": 652.33,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -152,7 +152,7 @@
       "BASIS": 537,
       "SAP": 256813,
       "DESCRIPCIÓN": "INCA KOLA PET 1LX6 RF 2.0",
-      "STOCK PT": 796.5,
+      "STOCK PT": 645.5,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -160,7 +160,7 @@
       "BASIS": 540,
       "SAP": 256816,
       "DESCRIPCIÓN": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "STOCK PT": 2531.33,
+      "STOCK PT": 2395.33,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -176,7 +176,7 @@
       "BASIS": 164,
       "SAP": 252565,
       "DESCRIPCIÓN": "INCA KOLA 400 VR x20",
-      "STOCK PT": 322.9,
+      "STOCK PT": 294.15,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -192,7 +192,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 382.38,
+      "STOCK PT": 335.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -296,7 +296,7 @@
       "BASIS": 6179,
       "SAP": 256668,
       "DESCRIPCIÓN": "COCA COLA 1.0 PET PQX6 RF",
-      "STOCK PT": 529.33,
+      "STOCK PT": 369.83,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -344,7 +344,7 @@
       "BASIS": 622,
       "SAP": 751315,
       "DESCRIPCIÓN": "MONSTER ENERGY 473MLX4",
-      "STOCK PT": 144.75,
+      "STOCK PT": 135.25,
       "Familia": "Energizante",
       "Status": "En circulación"
     },
@@ -352,7 +352,7 @@
       "BASIS": 616,
       "SAP": 751468,
       "DESCRIPCIÓN": "MONSTER ENERGY ULTRA 473MLX4",
-      "STOCK PT": 57,
+      "STOCK PT": 47.5,
       "Familia": "Energizante",
       "Status": "En circulación"
     },
@@ -360,7 +360,7 @@
       "BASIS": 649,
       "SAP": 751544,
       "DESCRIPCIÓN": "MONSTER ENERGY ZERO SUGAR 473MLX4",
-      "STOCK PT": 19.5,
+      "STOCK PT": 13.5,
       "Familia": "Energizante",
       "Status": "En circulación"
     },
@@ -376,7 +376,7 @@
       "BASIS": 636,
       "SAP": 751567,
       "DESCRIPCIÓN": "MONSTER ENERGY MANGO LOCO 473MLX4",
-      "STOCK PT": 31.75,
+      "STOCK PT": 31.25,
       "Familia": "Energizante",
       "Status": "En circulación"
     },
@@ -384,7 +384,7 @@
       "BASIS": 958,
       "SAP": 256919,
       "DESCRIPCIÓN": "SPRITE PET500x12 RF",
-      "STOCK PT": 112.58,
+      "STOCK PT": 99.58,
       "Familia": "Sprite",
       "Status": "En circulación"
     },
@@ -408,7 +408,7 @@
       "BASIS": 5211,
       "SAP": 256419,
       "DESCRIPCIÓN": "FRUGOS BEBIDA DZ. PT 1000X6",
-      "STOCK PT": 29.33,
+      "STOCK PT": 28.33,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -440,7 +440,7 @@
       "BASIS": 5154,
       "SAP": 254898,
       "DESCRIPCIÓN": "FRUGOS BEBIDA DURAZNO  TBA ML 235 X 24",
-      "STOCK PT": 107.71,
+      "STOCK PT": 93.96,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -512,7 +512,7 @@
       "BASIS": 2055,
       "SAP": 256567,
       "DESCRIPCIÓN": "FRUGOS DEL VALLE FRESH PET 500MLX12",
-      "STOCK PT": 267.17,
+      "STOCK PT": 261.67,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -520,7 +520,7 @@
       "BASIS": 2081,
       "SAP": 256599,
       "DESCRIPCIÓN": "FRUGOS FR NAR PET 1.5X6",
-      "STOCK PT": 15.670000000000002,
+      "STOCK PT": 14.17,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -544,7 +544,7 @@
       "BASIS": 2120,
       "SAP": 256740,
       "DESCRIPCIÓN": "FRUGOS DEL VALLE FRESH NARANJA PET 3 LT X4",
-      "STOCK PT": 14.5,
+      "STOCK PT": 12.5,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -560,7 +560,7 @@
       "BASIS": 1025,
       "SAP": 250421,
       "DESCRIPCIÓN": "COCA COLA VR1000x12",
-      "STOCK PT": 246.5,
+      "STOCK PT": 228.17,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -568,7 +568,7 @@
       "BASIS": 1023,
       "SAP": 250418,
       "DESCRIPCIÓN": "COCA COLA VR296x24",
-      "STOCK PT": 146.29,
+      "STOCK PT": 139.54,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -576,7 +576,7 @@
       "BASIS": 1627,
       "SAP": 256524,
       "DESCRIPCIÓN": "COCA COLA PET 3LT X4 RF",
-      "STOCK PT": 1225.25,
+      "STOCK PT": 1042.75,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -608,7 +608,7 @@
       "BASIS": 824,
       "SAP": 256953,
       "DESCRIPCIÓN": "FRUGOS DEL VALLE FRESH NARANJAPET 350MLX20",
-      "STOCK PT": 66.05,
+      "STOCK PT": 60.55,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -624,7 +624,7 @@
       "BASIS": 832,
       "SAP": 256960,
       "DESCRIPCIÓN": "FURY GOLD STRIKE PET 350MLX12",
-      "STOCK PT": 53.5,
+      "STOCK PT": 50,
       "Familia": "Energizante",
       "Status": "En circulación"
     },
@@ -648,7 +648,7 @@
       "BASIS": 847,
       "SAP": 256970,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM MANZANA C/G 625MLX15",
-      "STOCK PT": 163.13,
+      "STOCK PT": 158.53,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -656,7 +656,7 @@
       "BASIS": 848,
       "SAP": 256971,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM MARACUYA C/G 625MLX15",
-      "STOCK PT": 21.4,
+      "STOCK PT": 20.4,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -672,7 +672,7 @@
       "BASIS": 863,
       "SAP": 256983,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM LIMON PET S/G 625MLX15",
-      "STOCK PT": 123.27,
+      "STOCK PT": 117.67,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -728,7 +728,7 @@
       "BASIS": 385,
       "SAP": 256995,
       "DESCRIPCIÓN": "FDV BEB DURAZNO TPA 970MLX12",
-      "STOCK PT": 26.5,
+      "STOCK PT": 25.75,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -768,7 +768,7 @@
       "BASIS": 685,
       "SAP": 257017,
       "DESCRIPCIÓN": "FDV BEB DURAZNO TBA 1.45LX8",
-      "STOCK PT": 96.5,
+      "STOCK PT": 89.25,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -824,7 +824,7 @@
       "BASIS": 654,
       "SAP": 751750,
       "DESCRIPCIÓN": "MONSTER ENERGY PIPELINE PUNCH 473MLX4",
-      "STOCK PT": 20.5,
+      "STOCK PT": 20,
       "Familia": "Energizante",
       "Status": "En circulación"
     },
@@ -848,7 +848,7 @@
       "BASIS": 691,
       "SAP": 257049,
       "DESCRIPCIÓN": "FANTA NARANJA PET500x12 RF",
-      "STOCK PT": 516,
+      "STOCK PT": 483.5,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -880,7 +880,7 @@
       "BASIS": 689,
       "SAP": 257051,
       "DESCRIPCIÓN": "FANTA NARANJA PET 3LX4RF",
-      "STOCK PT": 178.25,
+      "STOCK PT": 172.25,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -896,7 +896,7 @@
       "BASIS": 562,
       "SAP": 257069,
       "DESCRIPCIÓN": "FANTA NARANJA VR 296x24 RF",
-      "STOCK PT": 57.96,
+      "STOCK PT": 56.71,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -904,7 +904,7 @@
       "BASIS": 564,
       "SAP": 257062,
       "DESCRIPCIÓN": "FANTA NARANJA  VR 192 x24 RF",
-      "STOCK PT": 42.25,
+      "STOCK PT": 39.75,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -912,7 +912,7 @@
       "BASIS": 606,
       "SAP": 257072,
       "DESCRIPCIÓN": "POWERADE SOUR MANZANA VERDE PET 600ML X6",
-      "STOCK PT": 66.17,
+      "STOCK PT": 65.17,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -944,7 +944,7 @@
       "BASIS": 5805,
       "SAP": 257080,
       "DESCRIPCIÓN": "FANTA KOLA INGLESA PET 300MLX12",
-      "STOCK PT": 11.17,
+      "STOCK PT": 9.67,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -952,7 +952,7 @@
       "BASIS": 5798,
       "SAP": 257079,
       "DESCRIPCIÓN": "FANTA NARANJA PET 300X12 RF",
-      "STOCK PT": 152.08,
+      "STOCK PT": 125.58,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -960,7 +960,7 @@
       "BASIS": 5831,
       "SAP": 257087,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS BID NO RET PET 7LTX1 - TR",
-      "STOCK PT": 180,
+      "STOCK PT": 150,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -984,7 +984,7 @@
       "BASIS": 22,
       "SAP": 257097,
       "DESCRIPCIÓN": "POWERADE MORA PET 1LX6 RF HF",
-      "STOCK PT": 128.17,
+      "STOCK PT": 120.67,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -992,7 +992,7 @@
       "BASIS": 21,
       "SAP": 257088,
       "DESCRIPCIÓN": "POWERADE FRUTAS PET 600MLX6 HF",
-      "STOCK PT": 679,
+      "STOCK PT": 530,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1000,7 +1000,7 @@
       "BASIS": 20,
       "SAP": 257096,
       "DESCRIPCIÓN": "POWERADE MORA PET 600MLX6 HF",
-      "STOCK PT": 479,
+      "STOCK PT": 341,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1008,7 +1008,7 @@
       "BASIS": 11,
       "SAP": 257104,
       "DESCRIPCIÓN": "INCA KOLA VR 625MLX12 - TP ROSCA-V2",
-      "STOCK PT": 151.25,
+      "STOCK PT": 146.25,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1016,7 +1016,7 @@
       "BASIS": 5242,
       "SAP": 256660,
       "DESCRIPCIÓN": "COCA COLA PET 2.5 LX6 RF.",
-      "STOCK PT": 1840,
+      "STOCK PT": 1707.5,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1024,7 +1024,7 @@
       "BASIS": 1022,
       "SAP": 250416,
       "DESCRIPCIÓN": "COCA COLA 192 VRE x24",
-      "STOCK PT": 211.67,
+      "STOCK PT": 182.42,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1040,7 +1040,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 2542.17,
+      "STOCK PT": 2403.92,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1056,7 +1056,7 @@
       "BASIS": 301,
       "SAP": 256499,
       "DESCRIPCIÓN": "COCA COLA PET 300MLX6-CRCG ET/PR",
-      "STOCK PT": 1049.5,
+      "STOCK PT": 921.5,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1080,7 +1080,7 @@
       "BASIS": 1392,
       "SAP": 252566,
       "DESCRIPCIÓN": "COCA COLA 400 VR x20",
-      "STOCK PT": 289.3,
+      "STOCK PT": 250.05,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1096,7 +1096,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 560.75,
+      "STOCK PT": 480.63,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1160,7 +1160,7 @@
       "BASIS": 1481,
       "SAP": 254700,
       "DESCRIPCIÓN": "FANTA KOLA INGLESA PET 500x12",
-      "STOCK PT": 74.17,
+      "STOCK PT": 59.67,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1256,7 +1256,7 @@
       "BASIS": 1892,
       "SAP": 252348,
       "DESCRIPCIÓN": "SAN LUIS SPORT SIN GAS PFM 1000",
-      "STOCK PT": 788,
+      "STOCK PT": 724,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1296,7 +1296,7 @@
       "BASIS": 1891,
       "SAP": 252323,
       "DESCRIPCIÓN": "SAN LUIS CON GAS PET625x15",
-      "STOCK PT": 128.47,
+      "STOCK PT": 126.93,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1312,7 +1312,7 @@
       "BASIS": 949,
       "SAP": 256905,
       "DESCRIPCIÓN": "SPRITE PET 2.25 X06  RF",
-      "STOCK PT": 208.5,
+      "STOCK PT": 204.17,
       "Familia": "Sprite",
       "Status": "En circulación"
     },
@@ -1320,7 +1320,7 @@
       "BASIS": 5826,
       "SAP": 257075,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM ARANDANO PET 625MLX15",
-      "STOCK PT": 83.33,
+      "STOCK PT": 82.27,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1344,7 +1344,7 @@
       "BASIS": 989,
       "SAP": 256783,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "STOCK PT": 1829.4,
+      "STOCK PT": 1753.4,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1368,7 +1368,7 @@
       "BASIS": 1858,
       "SAP": 251604,
       "DESCRIPCIÓN": "SAN LUIS S/G PNR 1.5 LTX6",
-      "STOCK PT": 2167.17,
+      "STOCK PT": 1986.17,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1384,7 +1384,7 @@
       "BASIS": 2059,
       "SAP": 256575,
       "DESCRIPCIÓN": "SAN LUIS S/G PFM 1.0 X6 TAPA PLANA",
-      "STOCK PT": 137.67,
+      "STOCK PT": 135.67,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1408,7 +1408,7 @@
       "BASIS": 1660,
       "SAP": 254780,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS 500ML PET X12",
-      "STOCK PT": 276.67,
+      "STOCK PT": 264.67,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1432,7 +1432,7 @@
       "BASIS": 1714,
       "SAP": 250736,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS B&B 20x01",
-      "STOCK PT": 191,
+      "STOCK PT": 181,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1440,7 +1440,7 @@
       "BASIS": 19,
       "SAP": 257095,
       "DESCRIPCIÓN": "POWERADE MULTIFRUTAS PET 1LX06 HF",
-      "STOCK PT": 155.5,
+      "STOCK PT": 149,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1456,7 +1456,7 @@
       "BASIS": 39,
       "SAP": 257112,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 3LX06",
-      "STOCK PT": 1521.33,
+      "STOCK PT": 1421.33,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -1520,7 +1520,7 @@
       "BASIS": 2206,
       "SAP": 257154,
       "DESCRIPCIÓN": "COCA COLA SIN AZUCAR PET 600MLX06",
-      "STOCK PT": 293.83,
+      "STOCK PT": 279.83,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1536,7 +1536,7 @@
       "BASIS": 2204,
       "SAP": 257157,
       "DESCRIPCIÓN": "INCA KOLA SIN AZUCAR PET 600MLX06",
-      "STOCK PT": 107,
+      "STOCK PT": 100,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1544,7 +1544,7 @@
       "BASIS": 0,
       "SAP": 752088,
       "DESCRIPCIÓN": "PACK VASO INCA KOLAX01",
-      "STOCK PT": 197,
+      "STOCK PT": 89,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1592,7 +1592,7 @@
       "BASIS": 363,
       "SAP": 751601,
       "DESCRIPCIÓN": "TRES CRUCES LIGHT 473 ML LATA X6",
-      "STOCK PT": 107.17,
+      "STOCK PT": 101.17,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -1608,7 +1608,7 @@
       "BASIS": 968,
       "SAP": 751641,
       "DESCRIPCIÓN": "HEINEKEN LATA 310 MLx6",
-      "STOCK PT": 187.67,
+      "STOCK PT": 179.67,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -1616,7 +1616,7 @@
       "BASIS": 919,
       "SAP": 751645,
       "DESCRIPCIÓN": "HEINEKEN RGB 600 MLX12",
-      "STOCK PT": 94.25,
+      "STOCK PT": 93.25,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -1768,7 +1768,7 @@
       "BASIS": 7771,
       "SAP": 751977,
       "DESCRIPCIÓN": "TORO SANTO PURO QUEBRANTA BOT 500ML X01 - TR",
-      "STOCK PT": 693,
+      "STOCK PT": 677,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1864,7 +1864,7 @@
       "BASIS": 5315,
       "SAP": 751812,
       "DESCRIPCIÓN": "SMIRNOFF GREEN APPLE 700MLX01",
-      "STOCK PT": 380,
+      "STOCK PT": 365,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1880,7 +1880,7 @@
       "BASIS": 5317,
       "SAP": 751814,
       "DESCRIPCIÓN": "SMIRNOFF WATERMELON 700MLX01",
-      "STOCK PT": 136,
+      "STOCK PT": 133,
       "Familia": "Licores",
       "Status": "En circulación"
     },
