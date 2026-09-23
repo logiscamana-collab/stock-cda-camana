@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-23T14:10:19",
+  "updated": "2026-09-23T17:49:38",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
@@ -1544,7 +1544,7 @@
       "BASIS": 0,
       "SAP": 752088,
       "DESCRIPCIÓN": "PACK VASO INCA KOLAX01",
-      "STOCK PT": 89,
+      "STOCK PT": 65,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
