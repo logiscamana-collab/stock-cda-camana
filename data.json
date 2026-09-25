@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-24T08:28:26",
+  "updated": "2026-09-24T19:07:15",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
@@ -1568,7 +1568,7 @@
       "BASIS": 357,
       "SAP": 751595,
       "DESCRIPCIÓN": "HEINEKEN BNR 330 MLX06 HNS",
-      "STOCK PT": 240.5,
+      "STOCK PT": 500.5,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -1576,7 +1576,7 @@
       "BASIS": 360,
       "SAP": 751598,
       "DESCRIPCIÓN": "TRES CRUCES LAG LATA 473MLX06",
-      "STOCK PT": 1.67,
+      "STOCK PT": 883.67,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -1608,7 +1608,7 @@
       "BASIS": 968,
       "SAP": 751641,
       "DESCRIPCIÓN": "HEINEKEN LATA 310 MLx6",
-      "STOCK PT": 171.67,
+      "STOCK PT": 675.67,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -1616,7 +1616,7 @@
       "BASIS": 919,
       "SAP": 751645,
       "DESCRIPCIÓN": "HEINEKEN RGB 600 MLX12",
-      "STOCK PT": 91.25,
+      "STOCK PT": 223.25,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -1632,7 +1632,7 @@
       "BASIS": 836,
       "SAP": 751681,
       "DESCRIPCIÓN": "TRES CRUCES LAGER RGB 640MLX12",
-      "STOCK PT": 33.75,
+      "STOCK PT": 77.75,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -1744,7 +1744,7 @@
       "BASIS": 7755,
       "SAP": 751975,
       "DESCRIPCIÓN": "PORTON MOSTO VERDE QUEBRANTA BOT 750ML X01 - TR",
-      "STOCK PT": 7,
+      "STOCK PT": 52,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1848,7 +1848,7 @@
       "BASIS": 5289,
       "SAP": 751791,
       "DESCRIPCIÓN": "SMIRNOFF X1 SPICY TAMARINDO 700MLX01",
-      "STOCK PT": 114,
+      "STOCK PT": 192,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1864,7 +1864,7 @@
       "BASIS": 5315,
       "SAP": 751812,
       "DESCRIPCIÓN": "SMIRNOFF GREEN APPLE 700MLX01",
-      "STOCK PT": 365,
+      "STOCK PT": 725,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1915,6 +1915,14 @@
       "STOCK PT": 240,
       "Familia": "Licores",
       "Status": "En circulación"
+    },
+    {
+      "BASIS": 0,
+      "SAP": 752059,
+      "DESCRIPCIÓN": "JOHNNIE WALKER RED LABEL 375MLX01",
+      "STOCK PT": 96,
+      "Familia": "Licores",
+      "Status": "Retirar"
     },
     {
       "BASIS": 7762,
