@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-24T20:08:18",
+  "updated": "2026-09-25T07:58:35",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
