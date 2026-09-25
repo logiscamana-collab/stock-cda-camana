@@ -68,7 +68,9 @@ const $=id=>document.getElementById(id);
 
 async function loadWelcome(){
 try{
- const res=await fetch('mensaje.json?nocache='+Date.now(),{cache:'no-store'});
+ // El parametro cambia en cada carga para evitar que el navegador o GitHub Pages use una copia antigua.
+ const version=Date.now();
+ const res=await fetch('./mensaje.json?v='+version,{cache:'no-store',headers:{'Cache-Control':'no-cache','Pragma':'no-cache'}});
  if(!res.ok)throw new Error('HTTP '+res.status);
  welcomeConfig=await res.json();
  if(welcomeConfig.activo===false){$('welcome').classList.add('welcome-hidden');return;}
