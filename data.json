@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-24T19:11:40",
+  "updated": "2026-09-24T19:17:29",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
@@ -1922,7 +1922,7 @@
       "DESCRIPCIÓN": "JOHNNIE WALKER RED LABEL 375MLX01",
       "STOCK PT": 96,
       "Familia": "Licores",
-      "Status": "Retirar"
+      "Status": "En circulación"
     },
     {
       "BASIS": 7762,
@@ -1963,6 +1963,14 @@
       "STOCK PT": 0,
       "Familia": "Envase",
       "Status": "Retirar"
+    },
+    {
+      "BASIS": 0,
+      "SAP": 752078,
+      "DESCRIPCIÓN": "JOHNNIE WALKER RED LAB 500MLX01",
+      "STOCK PT": 47,
+      "Familia": "Licores",
+      "Status": "En circulación"
     }
   ]
 }
