@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-29T20:37:55",
+  "updated": "2026-09-29T21:02:44",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
@@ -40,7 +40,7 @@
       "BASIS": 103,
       "SAP": 250032,
       "DESCRIPCIÓN": "INCA KOLA VR 1000 x12",
-      "STOCK PT": 281.58,
+      "STOCK PT": 282.08,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -72,7 +72,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 1526.75,
+      "STOCK PT": 1546,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -88,7 +88,7 @@
       "BASIS": 123,
       "SAP": 250029,
       "DESCRIPCIÓN": "INCA KOLA 192 VRE x24",
-      "STOCK PT": 140.92,
+      "STOCK PT": 141.42,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -96,7 +96,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 1830.58,
+      "STOCK PT": 1854.58,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -160,7 +160,7 @@
       "BASIS": 540,
       "SAP": 256816,
       "DESCRIPCIÓN": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "STOCK PT": 2330.17,
+      "STOCK PT": 2363.17,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -192,7 +192,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 370.88,
+      "STOCK PT": 371.38,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -296,7 +296,7 @@
       "BASIS": 6179,
       "SAP": 256668,
       "DESCRIPCIÓN": "COCA COLA 1.0 PET PQX6 RF",
-      "STOCK PT": 638.33,
+      "STOCK PT": 639.33,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -560,7 +560,7 @@
       "BASIS": 1025,
       "SAP": 250421,
       "DESCRIPCIÓN": "COCA COLA VR1000x12",
-      "STOCK PT": 215.25,
+      "STOCK PT": 215.75,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -568,7 +568,7 @@
       "BASIS": 1023,
       "SAP": 250418,
       "DESCRIPCIÓN": "COCA COLA VR296x24",
-      "STOCK PT": 228.58,
+      "STOCK PT": 229.08,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -576,7 +576,7 @@
       "BASIS": 1627,
       "SAP": 256524,
       "DESCRIPCIÓN": "COCA COLA PET 3LT X4 RF",
-      "STOCK PT": 1268,
+      "STOCK PT": 1288,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -880,7 +880,7 @@
       "BASIS": 689,
       "SAP": 257051,
       "DESCRIPCIÓN": "FANTA NARANJA PET 3LX4RF",
-      "STOCK PT": 178.25,
+      "STOCK PT": 178.5,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -992,7 +992,7 @@
       "BASIS": 21,
       "SAP": 257088,
       "DESCRIPCIÓN": "POWERADE FRUTAS PET 600MLX6 HF",
-      "STOCK PT": 377,
+      "STOCK PT": 378,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1016,7 +1016,7 @@
       "BASIS": 5242,
       "SAP": 256660,
       "DESCRIPCIÓN": "COCA COLA PET 2.5 LX6 RF.",
-      "STOCK PT": 1640.5,
+      "STOCK PT": 1674.5,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1024,7 +1024,7 @@
       "BASIS": 1022,
       "SAP": 250416,
       "DESCRIPCIÓN": "COCA COLA 192 VRE x24",
-      "STOCK PT": 231.92,
+      "STOCK PT": 232.42,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1040,7 +1040,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 1941.42,
+      "STOCK PT": 1963.58,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1096,7 +1096,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 472.25,
+      "STOCK PT": 483.75,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1472,7 +1472,7 @@
       "BASIS": 43,
       "SAP": 257126,
       "DESCRIPCIÓN": "FANTA UVA PET 500X12",
-      "STOCK PT": 12.83,
+      "STOCK PT": 13.25,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
