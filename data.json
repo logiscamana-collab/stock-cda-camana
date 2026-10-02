@@ -1,7 +1,7 @@
 {
   "sheet": "Ingreso Inv. Sap",
   "pivot_sheet": "Stock Ventas",
-  "updated": "2026-09-30T21:21:10",
+  "updated": "2026-10-01T21:01:21",
   "filters": {
     "Status": "En circulación",
     "Familia": "Agua"
@@ -1544,7 +1544,7 @@
       "BASIS": 0,
       "SAP": 752088,
       "DESCRIPCIÓN": "PACK VASO INCA KOLAX01",
-      "STOCK PT": 0,
+      "STOCK PT": 23,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1744,7 +1744,7 @@
       "BASIS": 7755,
       "SAP": 751975,
       "DESCRIPCIÓN": "PORTON MOSTO VERDE QUEBRANTA BOT 750ML X01 - TR",
-      "STOCK PT": 52,
+      "STOCK PT": 49,
       "Familia": "Licores",
       "Status": "En circulación"
     },
