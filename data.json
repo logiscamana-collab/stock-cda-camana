@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T11:40:41",
+  "updated_at": "2026-10-07T11:48:00",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -142,7 +142,7 @@
       "BASIS": 39,
       "SAP": 257112,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 3LX06",
-      "STOCK PT": 1010.83,
+      "STOCK PT": 1280.83,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -398,7 +398,7 @@
       "BASIS": 5242,
       "SAP": 256660,
       "DESCRIPCIÓN": "COCA COLA PET 2.5 LX6 RF.",
-      "STOCK PT": 786,
+      "STOCK PT": 1074,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -422,7 +422,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 1717.5,
+      "STOCK PT": 2517.5,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -510,7 +510,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 369.63,
+      "STOCK PT": 549.63,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -686,7 +686,7 @@
       "BASIS": 1481,
       "SAP": 254700,
       "DESCRIPCIÓN": "FANTA KOLA INGLESA PET 500x12",
-      "STOCK PT": 106.17,
+      "STOCK PT": 231.17,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -734,7 +734,7 @@
       "BASIS": 564,
       "SAP": 257062,
       "DESCRIPCIÓN": "FANTA NARANJA  VR 192 x24 RF",
-      "STOCK PT": 9.75,
+      "STOCK PT": 49.75,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -766,7 +766,7 @@
       "BASIS": 695,
       "SAP": 257050,
       "DESCRIPCIÓN": "FANTA NARANJA PET 2.25X06 RF",
-      "STOCK PT": 94.83,
+      "STOCK PT": 154.83,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -774,7 +774,7 @@
       "BASIS": 5798,
       "SAP": 257079,
       "DESCRIPCIÓN": "FANTA NARANJA PET 300X12 RF ",
-      "STOCK PT": 181.5,
+      "STOCK PT": 363.5,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -782,7 +782,7 @@
       "BASIS": 689,
       "SAP": 257051,
       "DESCRIPCIÓN": "FANTA NARANJA PET 3LX4RF",
-      "STOCK PT": 197.5,
+      "STOCK PT": 257.5,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -822,7 +822,7 @@
       "BASIS": 691,
       "SAP": 257049,
       "DESCRIPCIÓN": "FANTA NARANJA PET500x12 RF",
-      "STOCK PT": 313.17,
+      "STOCK PT": 563.17,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1214,7 +1214,7 @@
       "BASIS": 2037,
       "SAP": 256500,
       "DESCRIPCIÓN": "INCA KOLA  PET 300MLX6-CRCG ET/PR ",
-      "STOCK PT": 594.33,
+      "STOCK PT": 944.33,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1382,7 +1382,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 397,
+      "STOCK PT": 457,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1870,7 +1870,7 @@
       "BASIS": 949,
       "SAP": 256905,
       "DESCRIPCIÓN": "SPRITE PET 2.25 X06  RF",
-      "STOCK PT": 162,
+      "STOCK PT": 402,
       "Familia": "Sprite",
       "Status": "En circulación"
     },
@@ -1886,7 +1886,7 @@
       "BASIS": 958,
       "SAP": 256919,
       "DESCRIPCIÓN": "SPRITE PET500x12 RF",
-      "STOCK PT": 56.17,
+      "STOCK PT": 181.17,
       "Familia": "Sprite",
       "Status": "En circulación"
     }
