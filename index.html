@@ -109,7 +109,13 @@ $('semaforo').value=firstLoad ? '' : semaforoActual;
 $('q').value=busquedaActual;
 firstLoad=false;
 const total=data.rows.filter(r=>{const s=String(r.Status??'').trim().toLowerCase();return s==='en circulación'||s==='en circulacion';}).length;
-$('meta').textContent=total+' productos en circulación · Actualizado: '+new Date(data.updated).toLocaleString('es-PE');render();
+const fechaActualizacion = data.updated || data.updated_at || data.fecha_actualizacion || null;
+      let textoFecha = 'Actualizado: --';
+      if (fechaActualizacion) {
+        const fecha = new Date(fechaActualizacion);
+        textoFecha = isNaN(fecha.getTime()) ? 'Actualizado: --' : 'Actualizado: ' + fecha.toLocaleString('es-PE');
+      }
+      $('meta').textContent=total+' productos en circulación · '+textoFecha;render();
 }catch(e){$('meta').textContent='No se pudo cargar data.json';$('body').innerHTML='<tr><td colspan="4" class="empty">Error al cargar los datos.</td></tr>';console.error(e)}}
 $('familia').addEventListener('change',render);$('semaforo').addEventListener('change',render);$('q').addEventListener('input',render);$('refresh').addEventListener('click',load);loadWelcome();load();setInterval(load,15000);
 </script></body></html>
