@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T11:28:35",
+  "updated_at": "2026-10-08T19:33:36",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -166,7 +166,7 @@
       "BASIS": 989,
       "SAP": 256783,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "STOCK PT": 1655.53,
+      "STOCK PT": 1656.53,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -302,7 +302,7 @@
       "BASIS": 360,
       "SAP": 751598,
       "DESCRIPCIÓN": "TRES CRUCES LAG LATA 473MLX06",
-      "STOCK PT": 643.67,
+      "STOCK PT": 645.67,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -366,7 +366,7 @@
       "BASIS": 1392,
       "SAP": 252566,
       "DESCRIPCIÓN": "COCA COLA 400 VR x20",
-      "STOCK PT": 255.05,
+      "STOCK PT": 255.55,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -398,7 +398,7 @@
       "BASIS": 5242,
       "SAP": 256660,
       "DESCRIPCIÓN": "COCA COLA PET 2.5 LX6 RF.",
-      "STOCK PT": 1216.5,
+      "STOCK PT": 1251,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -414,7 +414,7 @@
       "BASIS": 1627,
       "SAP": 256524,
       "DESCRIPCIÓN": "COCA COLA PET 3LT X4 RF ",
-      "STOCK PT": 971.25,
+      "STOCK PT": 991.25,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -422,7 +422,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 2335.5,
+      "STOCK PT": 2362.5,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -502,7 +502,7 @@
       "BASIS": 1025,
       "SAP": 250421,
       "DESCRIPCIÓN": "COCA COLA VR1000x12",
-      "STOCK PT": 263.75,
+      "STOCK PT": 264.25,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -510,7 +510,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 655.38,
+      "STOCK PT": 667.38,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -518,7 +518,7 @@
       "BASIS": 1023,
       "SAP": 250418,
       "DESCRIPCIÓN": "COCA COLA VR296x24",
-      "STOCK PT": 195.08,
+      "STOCK PT": 195.58,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1014,7 +1014,7 @@
       "BASIS": 5154,
       "SAP": 254898,
       "DESCRIPCIÓN": "FRUGOS BEBIDA DURAZNO  TBA ML 235 X 24",
-      "STOCK PT": 126.71,
+      "STOCK PT": 127.21000000000001,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1246,7 +1246,7 @@
       "BASIS": 164,
       "SAP": 252565,
       "DESCRIPCIÓN": "INCA KOLA 400 VR x20",
-      "STOCK PT": 174.05,
+      "STOCK PT": 174.55,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1286,7 +1286,7 @@
       "BASIS": 540,
       "SAP": 256816,
       "DESCRIPCIÓN": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "STOCK PT": 1269.17,
+      "STOCK PT": 1306.67,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1302,7 +1302,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 920.25,
+      "STOCK PT": 941.25,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1310,7 +1310,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 2708.25,
+      "STOCK PT": 2738.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1374,7 +1374,7 @@
       "BASIS": 103,
       "SAP": 250032,
       "DESCRIPCIÓN": "INCA KOLA VR 1000 x12",
-      "STOCK PT": 322,
+      "STOCK PT": 322.5,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1382,7 +1382,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 462.25,
+      "STOCK PT": 462.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1390,7 +1390,7 @@
       "BASIS": 102,
       "SAP": 250030,
       "DESCRIPCIÓN": "INCA KOLA VR 296 x24",
-      "STOCK PT": 197.13,
+      "STOCK PT": 197.63,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1710,7 +1710,7 @@
       "BASIS": 21,
       "SAP": 257088,
       "DESCRIPCIÓN": "POWERADE FRUTAS PET 600MLX6 HF",
-      "STOCK PT": 764,
+      "STOCK PT": 765,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1806,7 +1806,7 @@
       "BASIS": 20,
       "SAP": 257096,
       "DESCRIPCIÓN": "POWERADE MORA PET 600MLX6 HF",
-      "STOCK PT": 714.5,
+      "STOCK PT": 715.5,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
