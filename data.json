@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:07:01",
+  "updated_at": "2026-10-10T12:43:05",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -70,7 +70,7 @@
       "BASIS": 847,
       "SAP": 256970,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM MANZANA C/G 625MLX15",
-      "STOCK PT": 45.27,
+      "STOCK PT": 135.27,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -110,7 +110,7 @@
       "BASIS": 1858,
       "SAP": 251604,
       "DESCRIPCIÓN": "SAN LUIS S/G PNR 1.5 LTX6",
-      "STOCK PT": 2480.17,
+      "STOCK PT": 2648.17,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -134,7 +134,7 @@
       "BASIS": 5831,
       "SAP": 257087,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS BID NO RET PET 7LTX1 - TR",
-      "STOCK PT": 64,
+      "STOCK PT": 148,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -142,7 +142,7 @@
       "BASIS": 39,
       "SAP": 257112,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 3LX06",
-      "STOCK PT": 1078.83,
+      "STOCK PT": 1258.83,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -342,7 +342,7 @@
       "BASIS": 6179,
       "SAP": 256668,
       "DESCRIPCIÓN": "COCA COLA 1.0 PET PQX6 RF",
-      "STOCK PT": 335.33,
+      "STOCK PT": 575.33,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -350,7 +350,7 @@
       "BASIS": 1022,
       "SAP": 250416,
       "DESCRIPCIÓN": "COCA COLA 192 VRE x24",
-      "STOCK PT": 118.46,
+      "STOCK PT": 158.46,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -366,7 +366,7 @@
       "BASIS": 1392,
       "SAP": 252566,
       "DESCRIPCIÓN": "COCA COLA 400 VR x20",
-      "STOCK PT": 174.55,
+      "STOCK PT": 254.55,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -406,7 +406,7 @@
       "BASIS": 301,
       "SAP": 256499,
       "DESCRIPCIÓN": "COCA COLA PET 300MLX6-CRCG ET/PR  ",
-      "STOCK PT": 614.5,
+      "STOCK PT": 964.5,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -422,7 +422,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 1695.5,
+      "STOCK PT": 2095.5,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -502,7 +502,7 @@
       "BASIS": 1025,
       "SAP": 250421,
       "DESCRIPCIÓN": "COCA COLA VR1000x12",
-      "STOCK PT": 180.92,
+      "STOCK PT": 300.92,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -510,7 +510,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 454.25,
+      "STOCK PT": 514.25,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -822,7 +822,7 @@
       "BASIS": 691,
       "SAP": 257049,
       "DESCRIPCIÓN": "FANTA NARANJA PET500x12 RF",
-      "STOCK PT": 426.83,
+      "STOCK PT": 551.83,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1014,7 +1014,7 @@
       "BASIS": 5154,
       "SAP": 254898,
       "DESCRIPCIÓN": "FRUGOS BEBIDA DURAZNO  TBA ML 235 X 24",
-      "STOCK PT": 98.46,
+      "STOCK PT": 182.46,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1302,7 +1302,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 656.75,
+      "STOCK PT": 1016.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1374,7 +1374,7 @@
       "BASIS": 103,
       "SAP": 250032,
       "DESCRIPCIÓN": "INCA KOLA VR 1000 x12",
-      "STOCK PT": 202.08,
+      "STOCK PT": 382.08,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1382,7 +1382,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 297.75,
+      "STOCK PT": 417.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1878,7 +1878,7 @@
       "BASIS": 960,
       "SAP": 256921,
       "DESCRIPCIÓN": "SPRITE PET 300MLX6 REFORMULADA",
-      "STOCK PT": 22.17,
+      "STOCK PT": 72.17,
       "Familia": "Sprite",
       "Status": "En circulación"
     },
