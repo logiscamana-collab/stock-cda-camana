@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T12:33:49",
+  "updated_at": "2026-10-13T12:35:32",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -422,7 +422,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 1781.92,
+      "STOCK PT": 1781.33,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1310,7 +1310,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 1820.25,
+      "STOCK PT": 1816.25,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
