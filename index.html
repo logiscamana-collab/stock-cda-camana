@@ -139,6 +139,7 @@ async function load(){
 try{const familiaActual=$('familia').value,semaforoActual=$('semaforo').value,busquedaActual=$('q').value;
 const res=await fetch('data.json?nocache='+Date.now(),{cache:'no-store',headers:{'Cache-Control':'no-cache'}});if(!res.ok)throw new Error('HTTP '+res.status);
 data=await res.json();
+renderNuevosIngresos();
 fillFamilia(data.options?.Familia||[], firstLoad ? '' : familiaActual);
 $('semaforo').value=firstLoad ? '' : semaforoActual;
 $('q').value=busquedaActual;
