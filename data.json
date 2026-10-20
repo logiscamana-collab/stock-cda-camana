@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:07:32",
+  "updated_at": "2026-10-20T10:29:49",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1911,5 +1911,7 @@
   "filters": {
     "Status": "En circulación",
     "Familia": "Todos"
-  }
+  },
+  "fecha_ingresos": "20/10/2026",
+  "nuevos_ingresos": []
 }
