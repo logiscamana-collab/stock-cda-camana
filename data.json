@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T10:29:49",
+  "updated_at": "2026-10-20T10:33:34",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -110,7 +110,7 @@
       "BASIS": 1858,
       "SAP": 251604,
       "DESCRIPCIÓN": "SAN LUIS S/G PNR 1.5 LTX6",
-      "STOCK PT": 1736.33,
+      "STOCK PT": 2576.33,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -198,7 +198,7 @@
       "BASIS": 1892,
       "SAP": 252348,
       "DESCRIPCIÓN": "SAN LUIS SPORT SIN GAS PFM 1000",
-      "STOCK PT": 434,
+      "STOCK PT": 674,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -350,7 +350,7 @@
       "BASIS": 1022,
       "SAP": 250416,
       "DESCRIPCIÓN": "COCA COLA 192 VRE x24",
-      "STOCK PT": 145.04,
+      "STOCK PT": 225.04,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -742,7 +742,7 @@
       "BASIS": 564,
       "SAP": 257062,
       "DESCRIPCIÓN": "FANTA NARANJA  VR 192 x24 RF",
-      "STOCK PT": 20.88,
+      "STOCK PT": 60.88,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -854,7 +854,7 @@
       "BASIS": 562,
       "SAP": 257069,
       "DESCRIPCIÓN": "FANTA NARANJA VR 296x24 RF",
-      "STOCK PT": 55.46,
+      "STOCK PT": 135.46,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1150,7 +1150,7 @@
       "BASIS": 2055,
       "SAP": 256567,
       "DESCRIPCIÓN": "FRUGOS DEL VALLE FRESH PET 500MLX12",
-      "STOCK PT": 123.5,
+      "STOCK PT": 263.5,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1278,7 +1278,7 @@
       "BASIS": 537,
       "SAP": 256813,
       "DESCRIPCIÓN": "INCA KOLA PET 1LX6 RF 2.0",
-      "STOCK PT": 619.83,
+      "STOCK PT": 859.83,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1294,7 +1294,7 @@
       "BASIS": 540,
       "SAP": 256816,
       "DESCRIPCIÓN": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "STOCK PT": 1062,
+      "STOCK PT": 1734,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1318,7 +1318,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 1385.83,
+      "STOCK PT": 1985.83,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1390,7 +1390,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 379,
+      "STOCK PT": 439,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1878,7 +1878,7 @@
       "BASIS": 960,
       "SAP": 256921,
       "DESCRIPCIÓN": "SPRITE PET 300MLX6 REFORMULADA",
-      "STOCK PT": 29,
+      "STOCK PT": 79,
       "Familia": "Sprite",
       "Status": "En circulación"
     },
@@ -1913,5 +1913,61 @@
     "Familia": "Todos"
   },
   "fecha_ingresos": "20/10/2026",
-  "nuevos_ingresos": []
+  "nuevos_ingresos": [
+    {
+      "Código": "250416",
+      "Descripción": "COCA COLA 192 VRE x24",
+      "Cantidad": 80
+    },
+    {
+      "Código": "257062",
+      "Descripción": "FANTA NARANJA  VR 192 x24 RF",
+      "Cantidad": 40
+    },
+    {
+      "Código": "257069",
+      "Descripción": "FANTA NARANJA VR 296x24 RF",
+      "Cantidad": 80
+    },
+    {
+      "Código": "256567",
+      "Descripción": "FRUGOS DEL VALLE FRESH PET 500MLX12",
+      "Cantidad": 140
+    },
+    {
+      "Código": "256813",
+      "Descripción": "INCA KOLA PET 1LX6 RF 2.0",
+      "Cantidad": 240
+    },
+    {
+      "Código": "256816",
+      "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
+      "Cantidad": 672
+    },
+    {
+      "Código": "256817",
+      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
+      "Cantidad": 600
+    },
+    {
+      "Código": "250033",
+      "Descripción": "INCA KOLA VR 1500 x08",
+      "Cantidad": 60
+    },
+    {
+      "Código": "251604",
+      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
+      "Cantidad": 840
+    },
+    {
+      "Código": "252348",
+      "Descripción": "SAN LUIS SPORT SIN GAS PFM 1000",
+      "Cantidad": 240
+    },
+    {
+      "Código": "256921",
+      "Descripción": "SPRITE PET 300MLX6 REFORMULADA",
+      "Cantidad": 50
+    }
+  ]
 }
