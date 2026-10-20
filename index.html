@@ -21,6 +21,17 @@ th{background:#f7f9fb;color:#345b7e;font-size:12px;letter-spacing:.04em}.stock-c
 .verde{background:#22a447}.amarillo{background:#f2c300}.anaranjado{background:#f28c28}.rojo{background:#df3030}
 .empty{text-align:center;padding:30px;color:#687d92}.footer{padding:14px 22px;color:#71869a;font-size:12px;border-top:1px solid #dbe3ec}
 .modal-backdrop{position:fixed;inset:0;background:rgba(10,28,48,.62);display:flex;align-items:center;justify-content:center;padding:20px;z-index:9999}.welcome-modal{width:min(560px,100%);background:white;border-radius:18px;box-shadow:0 18px 60px rgba(0,0,0,.25);padding:28px}.welcome-modal h2{margin:0 0 12px;color:#174a78;font-size:26px}.welcome-modal p{margin:0 0 22px;color:#425d74;font-size:16px;line-height:1.55;white-space:pre-wrap}.welcome-btn{border:0;border-radius:10px;background:#174a78;color:white;padding:11px 24px;font-weight:700;cursor:pointer;font-size:14px}.welcome-hidden{display:none}
+.welcome-ingresos{margin:0 0 20px;text-align:left}
+.welcome-ingresos h3{margin:0 0 8px;color:#174a78;font-size:18px}
+.welcome-ingresos .ingresos-fecha{margin:0 0 8px;color:#54708c;font-size:12px}
+.welcome-ingresos .ingresos-tabla-wrap{max-height:240px;overflow:auto;border:1px solid #dbe3ec;border-radius:9px}
+.welcome-ingresos table{width:100%;min-width:0;border-collapse:collapse}
+.welcome-ingresos th,.welcome-ingresos td{padding:8px 9px;border-top:1px solid #dbe3ec;text-align:left;font-size:12px}
+.welcome-ingresos th{position:sticky;top:0;background:#f7f9fb}
+.welcome-ingresos td:last-child,.welcome-ingresos th:last-child{text-align:right;white-space:nowrap}
+.welcome-ingresos .ingresos-vacio{padding:12px;color:#687d92;text-align:center}
+@media(max-width:700px){.welcome-ingresos h3{font-size:16px}.welcome-ingresos th,.welcome-ingresos td{font-size:11px;padding:7px 5px}}
+
 .legend{display:flex;flex-wrap:wrap;gap:14px;margin-top:13px;font-size:12px;color:#54708c}.legend-item{display:flex;align-items:center;gap:6px}.legend .semaforo{margin:0;width:11px;height:11px}
 @media(max-width:700px){
 body{font-size:13px;overflow-x:hidden}
@@ -38,7 +49,7 @@ th:nth-child(1),td:nth-child(1){width:14%}th:nth-child(2),td:nth-child(2){width:
 </style>
 </head>
 <body>
-<div id="welcome" class="modal-backdrop welcome-hidden"><div class="welcome-modal"><h2 id="welcomeTitle">Bienvenido</h2><p id="welcomeMessage"></p><button id="welcomeButton" class="welcome-btn">Ingresar</button></div></div>
+<div id="welcome" class="modal-backdrop welcome-hidden"><div class="welcome-modal"><h2 id="welcomeTitle">Bienvenido</h2><p id="welcomeMessage"></p><div id="welcomeIngresos" class="welcome-ingresos"></div><button id="welcomeButton" class="welcome-btn">Ingresar</button></div></div>
 <header class="header"><h1>Stock CDA Camana</h1><p>Tabla dinámica · Stock Ventas</p></header>
 <main class="card"><section class="top">
 <div class="title"><div><h2>Stock Ventas</h2><div id="meta" class="meta">Cargando...</div></div><div class="ok">Datos actualizados</div></div>
@@ -65,6 +76,28 @@ let data={rows:[],options:{},filters:{}};
 let welcomeConfig={};
 let firstLoad=true;
 const $=id=>document.getElementById(id);
+
+
+function renderNuevosIngresos(){
+ const cont=$('welcomeIngresos');
+ if(!cont)return;
+ const ingresos=Array.isArray(data.nuevos_ingresos)?data.nuevos_ingresos:[];
+ const fecha=data.fecha_ingresos||'';
+ const fmtCantidad=v=>Number(v).toLocaleString('es-PE',{maximumFractionDigits:2});
+ let contenido='<h3>📦 Nuevos Ingresos</h3>';
+ if(fecha) contenido+='<div class="ingresos-fecha">Fecha de recepción: '+fecha+'</div>';
+ if(!ingresos.length){
+  contenido+='<div class="ingresos-tabla-wrap"><div class="ingresos-vacio">No hay nuevos ingresos registrados hoy.</div></div>';
+ }else{
+  contenido+='<div class="ingresos-tabla-wrap"><table><thead><tr><th>Código</th><th>Descripción</th><th>Cantidad</th></tr></thead><tbody>';
+  contenido+=ingresos.map(r=>'<tr><td>'+escapeHtml(r.Código??'')+'</td><td>'+escapeHtml(r.Descripción??'')+'</td><td>'+fmtCantidad(Number(r.Cantidad)||0)+'</td></tr>').join('');
+  contenido+='</tbody></table></div>';
+ }
+ cont.innerHTML=contenido;
+}
+function escapeHtml(v){
+ return String(v).replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+}
 
 async function loadWelcome(){
 try{
