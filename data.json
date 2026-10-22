@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T19:56:15",
+  "updated_at": "2026-10-22T08:22:10",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1912,87 +1912,6 @@
     "Status": "En circulación",
     "Familia": "Todos"
   },
-  "fecha_ingresos": "21/10/2026",
-  "nuevos_ingresos": [
-    {
-      "Código": "256524",
-      "Descripción": "COCA COLA PET 3LT X4 RF",
-      "Cantidad": 240
-    },
-    {
-      "Código": "250421",
-      "Descripción": "COCA COLA VR1000x12",
-      "Cantidad": 30
-    },
-    {
-      "Código": "250681",
-      "Descripción": "COCA COLA VR1500x08",
-      "Cantidad": 120
-    },
-    {
-      "Código": "257079",
-      "Descripción": "FANTA NARANJA PET 300X12 RF",
-      "Cantidad": 182
-    },
-    {
-      "Código": "257049",
-      "Descripción": "FANTA NARANJA PET500x12 RF",
-      "Cantidad": 250
-    },
-    {
-      "Código": "256500",
-      "Descripción": "INCA KOLA  PET 300MLX6-CRCG ET/PR",
-      "Cantidad": 350
-    },
-    {
-      "Código": "256817",
-      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
-      "Cantidad": 200
-    },
-    {
-      "Código": "257157",
-      "Descripción": "INCA KOLA SIN AZUCAR PET 600MLX06",
-      "Cantidad": 200
-    },
-    {
-      "Código": "250033",
-      "Descripción": "INCA KOLA VR 1500 x08",
-      "Cantidad": 60
-    },
-    {
-      "Código": "257088",
-      "Descripción": "POWERADE FRUTAS PET 600MLX6 HF",
-      "Cantidad": 420
-    },
-    {
-      "Código": "257096",
-      "Descripción": "POWERADE MORA PET 600MLX6 HF",
-      "Cantidad": 630
-    },
-    {
-      "Código": "257095",
-      "Descripción": "POWERADE MULTIFRUTAS PET 1LX06 HF",
-      "Cantidad": 59
-    },
-    {
-      "Código": "257075",
-      "Descripción": "SAN LUIS EXPRIM ARANDANO PET 625MLX15",
-      "Cantidad": 36
-    },
-    {
-      "Código": "251604",
-      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
-      "Cantidad": 336
-    },
-    {
-      "Código": "257112",
-      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
-      "Cantidad": 360
-    },
-    {
-      "Código": "256783",
-      "Descripción": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "Cantidad": 360
-    }
-  ]
+  "fecha_ingresos": "22/10/2026",
+  "nuevos_ingresos": []
 }
