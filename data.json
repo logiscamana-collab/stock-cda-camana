@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:27:52",
+  "updated_at": "2026-10-22T12:50:44",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -110,7 +110,7 @@
       "BASIS": 1858,
       "SAP": 251604,
       "DESCRIPCIÓN": "SAN LUIS S/G PNR 1.5 LTX6",
-      "STOCK PT": 2547.33,
+      "STOCK PT": 2883.33,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -142,7 +142,7 @@
       "BASIS": 39,
       "SAP": 257112,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 3LX06",
-      "STOCK PT": 945.83,
+      "STOCK PT": 1395.83,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -366,7 +366,7 @@
       "BASIS": 1392,
       "SAP": 252566,
       "DESCRIPCIÓN": "COCA COLA 400 VR x20",
-      "STOCK PT": 185.85,
+      "STOCK PT": 345.85,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -510,7 +510,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 467.13,
+      "STOCK PT": 527.13,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -942,7 +942,7 @@
       "BASIS": 685,
       "SAP": 257017,
       "DESCRIPCIÓN": "FDV BEB DURAZNO TBA 1.45LX8",
-      "STOCK PT": 142,
+      "STOCK PT": 222,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1222,7 +1222,7 @@
       "BASIS": 2037,
       "SAP": 256500,
       "DESCRIPCIÓN": "INCA KOLA  PET 300MLX6-CRCG ET/PR ",
-      "STOCK PT": 562.5,
+      "STOCK PT": 912.5,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1246,7 +1246,7 @@
       "BASIS": 123,
       "SAP": 250029,
       "DESCRIPCIÓN": "INCA KOLA 192 VRE x24",
-      "STOCK PT": 44.21,
+      "STOCK PT": 204.21,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1254,7 +1254,7 @@
       "BASIS": 164,
       "SAP": 252565,
       "DESCRIPCIÓN": "INCA KOLA 400 VR x20",
-      "STOCK PT": 106.6,
+      "STOCK PT": 266.6,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1294,7 +1294,7 @@
       "BASIS": 540,
       "SAP": 256816,
       "DESCRIPCIÓN": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "STOCK PT": 1433.5,
+      "STOCK PT": 1769.5,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1390,7 +1390,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 373.5,
+      "STOCK PT": 433.5,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1422,7 +1422,7 @@
       "BASIS": 11,
       "SAP": 257104,
       "DESCRIPCIÓN": "INCA KOLA VR 625MLX12 - TP ROSCA-V2",
-      "STOCK PT": 5,
+      "STOCK PT": 105,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1870,7 +1870,7 @@
       "BASIS": 949,
       "SAP": 256905,
       "DESCRIPCIÓN": "SPRITE PET 2.25 X06  RF",
-      "STOCK PT": 156.17,
+      "STOCK PT": 276.17,
       "Familia": "Sprite",
       "Status": "En circulación"
     },
@@ -1913,5 +1913,66 @@
     "Familia": "Todos"
   },
   "fecha_ingresos": "22/10/2026",
-  "nuevos_ingresos": []
+  "nuevos_ingresos": [
+    {
+      "Código": "252566",
+      "Descripción": "COCA COLA 400 VR x20",
+      "Cantidad": 160
+    },
+    {
+      "Código": "250681",
+      "Descripción": "COCA COLA VR1500x08",
+      "Cantidad": 60
+    },
+    {
+      "Código": "257017",
+      "Descripción": "FDV BEB DURAZNO TBA 1.45LX8",
+      "Cantidad": 80
+    },
+    {
+      "Código": "256500",
+      "Descripción": "INCA KOLA  PET 300MLX6-CRCG ET/PR",
+      "Cantidad": 350
+    },
+    {
+      "Código": "250029",
+      "Descripción": "INCA KOLA 192 VRE x24",
+      "Cantidad": 160
+    },
+    {
+      "Código": "252565",
+      "Descripción": "INCA KOLA 400 VR x20",
+      "Cantidad": 160
+    },
+    {
+      "Código": "256816",
+      "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
+      "Cantidad": 336
+    },
+    {
+      "Código": "250033",
+      "Descripción": "INCA KOLA VR 1500 x08",
+      "Cantidad": 60
+    },
+    {
+      "Código": "257104",
+      "Descripción": "INCA KOLA VR 625MLX12 - TP ROSCA-V2",
+      "Cantidad": 100
+    },
+    {
+      "Código": "251604",
+      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
+      "Cantidad": 336
+    },
+    {
+      "Código": "257112",
+      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
+      "Cantidad": 450
+    },
+    {
+      "Código": "256905",
+      "Descripción": "SPRITE PET 2.25 X06  RF",
+      "Cantidad": 120
+    }
+  ]
 }
