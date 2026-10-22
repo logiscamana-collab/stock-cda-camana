@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T12:48:53",
+  "updated_at": "2026-10-21T19:56:15",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -230,7 +230,7 @@
       "BASIS": 367,
       "SAP": 751903,
       "DESCRIPCIÓN": "AMSTEL RGB 600MLX12 PE CRATE",
-      "STOCK PT": 0,
+      "STOCK PT": -0.5,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -254,7 +254,7 @@
       "BASIS": 357,
       "SAP": 751595,
       "DESCRIPCIÓN": "HEINEKEN BNR 330 MLX06 HNS ",
-      "STOCK PT": 360.5,
+      "STOCK PT": 360.17,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -262,7 +262,7 @@
       "BASIS": 968,
       "SAP": 751641,
       "DESCRIPCIÓN": "HEINEKEN LATA 310 MLx6",
-      "STOCK PT": 489.67,
+      "STOCK PT": 482.17,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -302,7 +302,7 @@
       "BASIS": 360,
       "SAP": 751598,
       "DESCRIPCIÓN": "TRES CRUCES LAG LATA 473MLX06",
-      "STOCK PT": 439.67,
+      "STOCK PT": 436.5,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -310,7 +310,7 @@
       "BASIS": 836,
       "SAP": 751681,
       "DESCRIPCIÓN": "TRES CRUCES LAGER RGB 640MLX12",
-      "STOCK PT": 45.75,
+      "STOCK PT": 45.42,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -326,7 +326,7 @@
       "BASIS": 363,
       "SAP": 751601,
       "DESCRIPCIÓN": "TRES CRUCES LIGHT 473 ML LATA X6",
-      "STOCK PT": 77.17,
+      "STOCK PT": 52.33,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
