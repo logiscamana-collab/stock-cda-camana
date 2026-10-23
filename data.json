@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T20:07:33",
+  "updated_at": "2026-10-23T08:02:29",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1912,67 +1912,6 @@
     "Status": "En circulación",
     "Familia": "Todos"
   },
-  "fecha_ingresos": "22/10/2026",
-  "nuevos_ingresos": [
-    {
-      "Código": "252566",
-      "Descripción": "COCA COLA 400 VR x20",
-      "Cantidad": 160
-    },
-    {
-      "Código": "250681",
-      "Descripción": "COCA COLA VR1500x08",
-      "Cantidad": 60
-    },
-    {
-      "Código": "257017",
-      "Descripción": "FDV BEB DURAZNO TBA 1.45LX8",
-      "Cantidad": 80
-    },
-    {
-      "Código": "256500",
-      "Descripción": "INCA KOLA  PET 300MLX6-CRCG ET/PR",
-      "Cantidad": 350
-    },
-    {
-      "Código": "250029",
-      "Descripción": "INCA KOLA 192 VRE x24",
-      "Cantidad": 160
-    },
-    {
-      "Código": "252565",
-      "Descripción": "INCA KOLA 400 VR x20",
-      "Cantidad": 160
-    },
-    {
-      "Código": "256816",
-      "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "Cantidad": 336
-    },
-    {
-      "Código": "250033",
-      "Descripción": "INCA KOLA VR 1500 x08",
-      "Cantidad": 60
-    },
-    {
-      "Código": "257104",
-      "Descripción": "INCA KOLA VR 625MLX12 - TP ROSCA-V2",
-      "Cantidad": 100
-    },
-    {
-      "Código": "251604",
-      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
-      "Cantidad": 336
-    },
-    {
-      "Código": "257112",
-      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
-      "Cantidad": 450
-    },
-    {
-      "Código": "256905",
-      "Descripción": "SPRITE PET 2.25 X06  RF",
-      "Cantidad": 120
-    }
-  ]
+  "fecha_ingresos": "23/10/2026",
+  "nuevos_ingresos": []
 }
