@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T20:15:38",
+  "updated_at": "2026-10-24T07:47:37",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1912,72 +1912,6 @@
     "Status": "En circulación",
     "Familia": "Todos"
   },
-  "fecha_ingresos": "23/10/2026",
-  "nuevos_ingresos": [
-    {
-      "Código": "250416",
-      "Descripción": "COCA COLA 192 VRE x24",
-      "Cantidad": 80
-    },
-    {
-      "Código": "256660",
-      "Descripción": "COCA COLA PET 2.5 LX6 RF.",
-      "Cantidad": 288
-    },
-    {
-      "Código": "256524",
-      "Descripción": "COCA COLA PET 3LT X4 RF",
-      "Cantidad": 120
-    },
-    {
-      "Código": "250421",
-      "Descripción": "COCA COLA VR1000x12",
-      "Cantidad": 60
-    },
-    {
-      "Código": "250681",
-      "Descripción": "COCA COLA VR1500x08",
-      "Cantidad": 120
-    },
-    {
-      "Código": "252565",
-      "Descripción": "INCA KOLA 400 VR x20",
-      "Cantidad": 80
-    },
-    {
-      "Código": "256790",
-      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
-      "Cantidad": 240
-    },
-    {
-      "Código": "256817",
-      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
-      "Cantidad": 600
-    },
-    {
-      "Código": "250033",
-      "Descripción": "INCA KOLA VR 1500 x08",
-      "Cantidad": 120
-    },
-    {
-      "Código": "250030",
-      "Descripción": "INCA KOLA VR 296 x24",
-      "Cantidad": 80
-    },
-    {
-      "Código": "251604",
-      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
-      "Cantidad": 168
-    },
-    {
-      "Código": "257112",
-      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
-      "Cantidad": 180
-    },
-    {
-      "Código": "252348",
-      "Descripción": "SAN LUIS SPORT SIN GAS PFM 1000",
-      "Cantidad": 360
-    }
-  ]
+  "fecha_ingresos": "24/10/2026",
+  "nuevos_ingresos": []
 }
