@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T10:41:46",
+  "updated_at": "2026-10-24T10:44:20",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -142,7 +142,7 @@
       "BASIS": 39,
       "SAP": 257112,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 3LX06",
-      "STOCK PT": 962.83,
+      "STOCK PT": 1142.83,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -342,7 +342,7 @@
       "BASIS": 6179,
       "SAP": 256668,
       "DESCRIPCIÓN": "COCA COLA 1.0 PET PQX6 RF",
-      "STOCK PT": 521.17,
+      "STOCK PT": 641.17,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -398,7 +398,7 @@
       "BASIS": 5242,
       "SAP": 256660,
       "DESCRIPCIÓN": "COCA COLA PET 2.5 LX6 RF.",
-      "STOCK PT": 980.67,
+      "STOCK PT": 1460.67,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -406,7 +406,7 @@
       "BASIS": 301,
       "SAP": 256499,
       "DESCRIPCIÓN": "COCA COLA PET 300MLX6-CRCG ET/PR  ",
-      "STOCK PT": 604.67,
+      "STOCK PT": 954.67,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -414,7 +414,7 @@
       "BASIS": 1627,
       "SAP": 256524,
       "DESCRIPCIÓN": "COCA COLA PET 3LT X4 RF ",
-      "STOCK PT": 395.25,
+      "STOCK PT": 755.25,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -782,7 +782,7 @@
       "BASIS": 5798,
       "SAP": 257079,
       "DESCRIPCIÓN": "FANTA NARANJA PET 300X12 RF ",
-      "STOCK PT": 113.33,
+      "STOCK PT": 295.33,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -830,7 +830,7 @@
       "BASIS": 691,
       "SAP": 257049,
       "DESCRIPCIÓN": "FANTA NARANJA PET500x12 RF",
-      "STOCK PT": 393.5,
+      "STOCK PT": 518.5,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1022,7 +1022,7 @@
       "BASIS": 5154,
       "SAP": 254898,
       "DESCRIPCIÓN": "FRUGOS BEBIDA DURAZNO  TBA ML 235 X 24",
-      "STOCK PT": 35.21,
+      "STOCK PT": 119.21,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1150,7 +1150,7 @@
       "BASIS": 2055,
       "SAP": 256567,
       "DESCRIPCIÓN": "FRUGOS DEL VALLE FRESH PET 500MLX12",
-      "STOCK PT": 160.83,
+      "STOCK PT": 300.83,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1310,7 +1310,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 708.25,
+      "STOCK PT": 948.25,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1390,7 +1390,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 399,
+      "STOCK PT": 669,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1710,7 +1710,7 @@
       "BASIS": 21,
       "SAP": 257088,
       "DESCRIPCIÓN": "POWERADE FRUTAS PET 600MLX6 HF",
-      "STOCK PT": 1,
+      "STOCK PT": 211,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1806,7 +1806,7 @@
       "BASIS": 20,
       "SAP": 257096,
       "DESCRIPCIÓN": "POWERADE MORA PET 600MLX6 HF",
-      "STOCK PT": 3.33,
+      "STOCK PT": 213.33,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1870,7 +1870,7 @@
       "BASIS": 949,
       "SAP": 256905,
       "DESCRIPCIÓN": "SPRITE PET 2.25 X06  RF",
-      "STOCK PT": 196.17,
+      "STOCK PT": 256.17,
       "Familia": "Sprite",
       "Status": "En circulación"
     },
@@ -1915,6 +1915,26 @@
   "fecha_ingresos": "24/10/2026",
   "nuevos_ingresos": [
     {
+      "Código": "256668",
+      "Descripción": "COCA COLA 1.0 PET PQX6 RF",
+      "Cantidad": 120
+    },
+    {
+      "Código": "256660",
+      "Descripción": "COCA COLA PET 2.5 LX6 RF.",
+      "Cantidad": 480
+    },
+    {
+      "Código": "256499",
+      "Descripción": "COCA COLA PET 300MLX6-CRCG ET/PR",
+      "Cantidad": 350
+    },
+    {
+      "Código": "256524",
+      "Descripción": "COCA COLA PET 3LT X4 RF",
+      "Cantidad": 360
+    },
+    {
       "Código": "256759",
       "Descripción": "COCA COLA PET 600MLX12 RF",
       "Cantidad": 400
@@ -1935,6 +1955,26 @@
       "Cantidad": 120
     },
     {
+      "Código": "257079",
+      "Descripción": "FANTA NARANJA PET 300X12 RF",
+      "Cantidad": 182
+    },
+    {
+      "Código": "257049",
+      "Descripción": "FANTA NARANJA PET500x12 RF",
+      "Cantidad": 125
+    },
+    {
+      "Código": "254898",
+      "Descripción": "FRUGOS BEBIDA DURAZNO  TBA ML 235 X 24",
+      "Cantidad": 84
+    },
+    {
+      "Código": "256567",
+      "Descripción": "FRUGOS DEL VALLE FRESH PET 500MLX12",
+      "Cantidad": 140
+    },
+    {
       "Código": "250029",
       "Descripción": "INCA KOLA 192 VRE x24",
       "Cantidad": 80
@@ -1943,6 +1983,11 @@
       "Código": "256816",
       "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
       "Cantidad": 480
+    },
+    {
+      "Código": "256790",
+      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
+      "Cantidad": 240
     },
     {
       "Código": "256817",
@@ -1955,14 +2000,39 @@
       "Cantidad": 120
     },
     {
+      "Código": "250033",
+      "Descripción": "INCA KOLA VR 1500 x08",
+      "Cantidad": 270
+    },
+    {
       "Código": "257104",
       "Descripción": "INCA KOLA VR 625MLX12 - TP ROSCA-V2",
       "Cantidad": 50
     },
     {
+      "Código": "257088",
+      "Descripción": "POWERADE FRUTAS PET 600MLX6 HF",
+      "Cantidad": 210
+    },
+    {
+      "Código": "257096",
+      "Descripción": "POWERADE MORA PET 600MLX6 HF",
+      "Cantidad": 210
+    },
+    {
+      "Código": "257112",
+      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
+      "Cantidad": 180
+    },
+    {
       "Código": "256783",
       "Descripción": "SAN LUIS SIN GAS PET 750 MLX15 ET",
       "Cantidad": 240
+    },
+    {
+      "Código": "256905",
+      "Descripción": "SPRITE PET 2.25 X06  RF",
+      "Cantidad": 60
     }
   ]
 }
