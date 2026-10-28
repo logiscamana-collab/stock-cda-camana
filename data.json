@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T16:07:43",
+  "updated_at": "2026-10-28T18:09:47",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1451,6 +1451,30 @@
       "Status": "Retirar"
     },
     {
+      "BASIS": 0,
+      "SAP": 751932,
+      "DESCRIPCIÓN": "INKA CHIPS SALADA ORIGINAL 25GRX01",
+      "STOCK PT": 0,
+      "Familia": "Inca Kola",
+      "Status": "En circulación"
+    },
+    {
+      "BASIS": 0,
+      "SAP": 752088,
+      "DESCRIPCIÓN": "PACK VASO INCA KOLAX01",
+      "STOCK PT": 0,
+      "Familia": "Inca Kola",
+      "Status": "En circulación"
+    },
+    {
+      "BASIS": 0,
+      "SAP": 256912,
+      "DESCRIPCIÓN": "SPRITE VR 1.5L X08 RF",
+      "STOCK PT": 0,
+      "Familia": "Inca Kola",
+      "Status": "En circulación"
+    },
+    {
       "BASIS": 5278,
       "SAP": 751772,
       "DESCRIPCIÓN": "BLACK & WHITE BLENDED 750MLX01",
@@ -1471,6 +1495,30 @@
       "SAP": 751797,
       "DESCRIPCIÓN": "JOHNNIE WALKER DOUBLE BLACK 750MLX01",
       "STOCK PT": 123,
+      "Familia": "Licores",
+      "Status": "En circulación"
+    },
+    {
+      "BASIS": 0,
+      "SAP": 751799,
+      "DESCRIPCIÓN": "JOHNNIE WALKER GOLD RESERVE 750MLX01",
+      "STOCK PT": 180,
+      "Familia": "Licores",
+      "Status": "En circulación"
+    },
+    {
+      "BASIS": 0,
+      "SAP": 752078,
+      "DESCRIPCIÓN": "JOHNNIE WALKER RED LAB 500MLX01",
+      "STOCK PT": 48,
+      "Familia": "Licores",
+      "Status": "En circulación"
+    },
+    {
+      "BASIS": 0,
+      "SAP": 752059,
+      "DESCRIPCIÓN": "JOHNNIE WALKER RED LABEL 375MLX01",
+      "STOCK PT": 96,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1627,10 +1675,26 @@
       "Status": "En circulación"
     },
     {
+      "BASIS": 0,
+      "SAP": 751807,
+      "DESCRIPCIÓN": "TANQUERAY DARK BERRY ROYALE 700MLX01",
+      "STOCK PT": 240,
+      "Familia": "Licores",
+      "Status": "En circulación"
+    },
+    {
       "BASIS": 5320,
       "SAP": 751804,
       "DESCRIPCIÓN": "TANQUERAY FLOR DE SEVILLA 700MLX01",
       "STOCK PT": 249,
+      "Familia": "Licores",
+      "Status": "En circulación"
+    },
+    {
+      "BASIS": 0,
+      "SAP": 751806,
+      "DESCRIPCIÓN": "TANQUERAY LONDON DRY 700MLX01",
+      "STOCK PT": 240,
       "Familia": "Licores",
       "Status": "En circulación"
     },
