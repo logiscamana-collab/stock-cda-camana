@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T21:02:07",
+  "updated_at": "2026-10-28T09:53:08",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1912,82 +1912,6 @@
     "Status": "En circulación",
     "Familia": "Todos"
   },
-  "fecha_ingresos": "27/10/2026",
-  "nuevos_ingresos": [
-    {
-      "Código": "252566",
-      "Descripción": "COCA COLA 400 VR x20",
-      "Cantidad": 40
-    },
-    {
-      "Código": "256673",
-      "Descripción": "COCA COLA PET 1.5LX6 RF",
-      "Cantidad": 24
-    },
-    {
-      "Código": "256660",
-      "Descripción": "COCA COLA PET 2.5 LX6 RF.",
-      "Cantidad": 192
-    },
-    {
-      "Código": "256524",
-      "Descripción": "COCA COLA PET 3LT X4 RF",
-      "Cantidad": 420
-    },
-    {
-      "Código": "256759",
-      "Descripción": "COCA COLA PET 600MLX12 RF",
-      "Cantidad": 900
-    },
-    {
-      "Código": "250681",
-      "Descripción": "COCA COLA VR1500x08",
-      "Cantidad": 30
-    },
-    {
-      "Código": "257017",
-      "Descripción": "FDV BEB DURAZNO TBA 1.45LX8",
-      "Cantidad": 80
-    },
-    {
-      "Código": "256419",
-      "Descripción": "FRUGOS BEBIDA DZ. PT 1000X6",
-      "Cantidad": 28
-    },
-    {
-      "Código": "256816",
-      "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "Cantidad": 288
-    },
-    {
-      "Código": "256817",
-      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
-      "Cantidad": 600
-    },
-    {
-      "Código": "250032",
-      "Descripción": "INCA KOLA VR 1000 x12",
-      "Cantidad": 60
-    },
-    {
-      "Código": "257097",
-      "Descripción": "POWERADE MORA PET 1LX6 RF HF",
-      "Cantidad": 30
-    },
-    {
-      "Código": "256970",
-      "Descripción": "SAN LUIS EXPRIM MANZANA C/G 625MLX15",
-      "Cantidad": 90
-    },
-    {
-      "Código": "250736",
-      "Descripción": "SAN LUIS SIN GAS B&B 20x01",
-      "Cantidad": 50
-    },
-    {
-      "Código": "252348",
-      "Descripción": "SAN LUIS SPORT SIN GAS PFM 1000",
-      "Cantidad": 120
-    }
-  ]
+  "fecha_ingresos": "28/10/2026",
+  "nuevos_ingresos": []
 }
