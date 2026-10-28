@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:54:12",
+  "updated_at": "2026-10-28T16:07:43",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -126,7 +126,7 @@
       "BASIS": 1714,
       "SAP": 250736,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS B&B 20x01",
-      "STOCK PT": 72,
+      "STOCK PT": 122,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -134,7 +134,7 @@
       "BASIS": 5831,
       "SAP": 257087,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS BID NO RET PET 7LTX1 - TR",
-      "STOCK PT": 7,
+      "STOCK PT": 175,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -142,7 +142,7 @@
       "BASIS": 39,
       "SAP": 257112,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 3LX06",
-      "STOCK PT": 734.33,
+      "STOCK PT": 914.33,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -198,7 +198,7 @@
       "BASIS": 1892,
       "SAP": 252348,
       "DESCRIPCIÓN": "SAN LUIS SPORT SIN GAS PFM 1000",
-      "STOCK PT": 498.5,
+      "STOCK PT": 618.5,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -350,7 +350,7 @@
       "BASIS": 1022,
       "SAP": 250416,
       "DESCRIPCIÓN": "COCA COLA 192 VRE x24",
-      "STOCK PT": 94.21,
+      "STOCK PT": 174.21,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -366,7 +366,7 @@
       "BASIS": 1392,
       "SAP": 252566,
       "DESCRIPCIÓN": "COCA COLA 400 VR x20",
-      "STOCK PT": 166.75,
+      "STOCK PT": 206.75,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -414,7 +414,7 @@
       "BASIS": 1627,
       "SAP": 256524,
       "DESCRIPCIÓN": "COCA COLA PET 3LT X4 RF ",
-      "STOCK PT": 755.25,
+      "STOCK PT": 935.25,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -510,7 +510,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 349.13,
+      "STOCK PT": 469.13,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -790,7 +790,7 @@
       "BASIS": 689,
       "SAP": 257051,
       "DESCRIPCIÓN": "FANTA NARANJA PET 3LX4RF",
-      "STOCK PT": 107.75,
+      "STOCK PT": 167.75,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -950,7 +950,7 @@
       "BASIS": 385,
       "SAP": 256995,
       "DESCRIPCIÓN": "FDV BEB DURAZNO TPA 970MLX12",
-      "STOCK PT": 1.67,
+      "STOCK PT": 18.67,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1142,7 +1142,7 @@
       "BASIS": 824,
       "SAP": 256953,
       "DESCRIPCIÓN": "FRUGOS DEL VALLE FRESH NARANJAPET 350MLX20",
-      "STOCK PT": 15.55,
+      "STOCK PT": 105.55,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1262,7 +1262,7 @@
       "BASIS": 538,
       "SAP": 256809,
       "DESCRIPCIÓN": "INCA KOLA PET 1.5LX6 RF 2.0",
-      "STOCK PT": 1.67,
+      "STOCK PT": 24.67,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1294,7 +1294,7 @@
       "BASIS": 540,
       "SAP": 256816,
       "DESCRIPCIÓN": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "STOCK PT": 1239,
+      "STOCK PT": 1479,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1310,7 +1310,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 491.75,
+      "STOCK PT": 791.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1318,7 +1318,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 2309.83,
+      "STOCK PT": 2709.83,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1358,7 +1358,7 @@
       "BASIS": 2204,
       "SAP": 257157,
       "DESCRIPCIÓN": "INCA KOLA SIN AZUCAR PET 600MLX06",
-      "STOCK PT": 54,
+      "STOCK PT": 154,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1462,7 +1462,7 @@
       "BASIS": 5268,
       "SAP": 751783,
       "DESCRIPCIÓN": "JOHNNIE WALKER BLACK LABEL 750MLX01",
-      "STOCK PT": 432,
+      "STOCK PT": 444,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1478,7 +1478,7 @@
       "BASIS": 5270,
       "SAP": 751802,
       "DESCRIPCIÓN": "JOHNNIE WALKER RED LABEL 750MLX01",
-      "STOCK PT": 171,
+      "STOCK PT": 411,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1566,7 +1566,7 @@
       "BASIS": 7722,
       "SAP": 751973,
       "DESCRIPCIÓN": "PORTON MOSTO VERDE ITALIA BOT 750ML X01 - TR",
-      "STOCK PT": 1,
+      "STOCK PT": 31,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1590,7 +1590,7 @@
       "BASIS": 5315,
       "SAP": 751812,
       "DESCRIPCIÓN": "SMIRNOFF GREEN APPLE 700MLX01",
-      "STOCK PT": 551,
+      "STOCK PT": 1103,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1622,7 +1622,7 @@
       "BASIS": 5289,
       "SAP": 751791,
       "DESCRIPCIÓN": "SMIRNOFF X1 SPICY TAMARINDO 700MLX01",
-      "STOCK PT": 161,
+      "STOCK PT": 341,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1662,7 +1662,7 @@
       "BASIS": 7771,
       "SAP": 751977,
       "DESCRIPCIÓN": "TORO SANTO PURO QUEBRANTA BOT 500ML X01 - TR",
-      "STOCK PT": 543,
+      "STOCK PT": 939,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1710,7 +1710,7 @@
       "BASIS": 21,
       "SAP": 257088,
       "DESCRIPCIÓN": "POWERADE FRUTAS PET 600MLX6 HF",
-      "STOCK PT": 50,
+      "STOCK PT": 260,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1806,7 +1806,7 @@
       "BASIS": 20,
       "SAP": 257096,
       "DESCRIPCIÓN": "POWERADE MORA PET 600MLX6 HF",
-      "STOCK PT": 1.33,
+      "STOCK PT": 630.33,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1913,5 +1913,126 @@
     "Familia": "Todos"
   },
   "fecha_ingresos": "28/10/2026",
-  "nuevos_ingresos": []
+  "nuevos_ingresos": [
+    {
+      "Código": "250416",
+      "Descripción": "COCA COLA 192 VRE x24",
+      "Cantidad": 80
+    },
+    {
+      "Código": "252566",
+      "Descripción": "COCA COLA 400 VR x20",
+      "Cantidad": 40
+    },
+    {
+      "Código": "256524",
+      "Descripción": "COCA COLA PET 3LT X4 RF",
+      "Cantidad": 180
+    },
+    {
+      "Código": "250681",
+      "Descripción": "COCA COLA VR1500x08",
+      "Cantidad": 120
+    },
+    {
+      "Código": "257051",
+      "Descripción": "FANTA NARANJA PET 3LX4RF",
+      "Cantidad": 60
+    },
+    {
+      "Código": "256995",
+      "Descripción": "FDV BEB DURAZNO TPA 970MLX12",
+      "Cantidad": 17
+    },
+    {
+      "Código": "256953",
+      "Descripción": "FRUGOS DEL VALLE FRESH NARANJAPET 350MLX20",
+      "Cantidad": 90
+    },
+    {
+      "Código": "256809",
+      "Descripción": "INCA KOLA PET 1.5LX6 RF 2.0",
+      "Cantidad": 24
+    },
+    {
+      "Código": "256816",
+      "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
+      "Cantidad": 240
+    },
+    {
+      "Código": "256790",
+      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
+      "Cantidad": 300
+    },
+    {
+      "Código": "256817",
+      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
+      "Cantidad": 400
+    },
+    {
+      "Código": "257157",
+      "Descripción": "INCA KOLA SIN AZUCAR PET 600MLX06",
+      "Cantidad": 100
+    },
+    {
+      "Código": "751783",
+      "Descripción": "JOHNNIE WALKER BLACK LABEL 750MLX01",
+      "Cantidad": 12
+    },
+    {
+      "Código": "751802",
+      "Descripción": "JOHNNIE WALKER RED LABEL 750MLX01",
+      "Cantidad": 240
+    },
+    {
+      "Código": "751973",
+      "Descripción": "PORTON MOSTO VERDE ITALIA BOT 750ML X01 - TR",
+      "Cantidad": 30
+    },
+    {
+      "Código": "257088",
+      "Descripción": "POWERADE FRUTAS PET 600MLX6 HF",
+      "Cantidad": 210
+    },
+    {
+      "Código": "257096",
+      "Descripción": "POWERADE MORA PET 600MLX6 HF",
+      "Cantidad": 630
+    },
+    {
+      "Código": "250736",
+      "Descripción": "SAN LUIS SIN GAS B&B 20x01",
+      "Cantidad": 50
+    },
+    {
+      "Código": "257087",
+      "Descripción": "SAN LUIS SIN GAS BID NO RET PET 7LTX1 - TR",
+      "Cantidad": 168
+    },
+    {
+      "Código": "257112",
+      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
+      "Cantidad": 180
+    },
+    {
+      "Código": "252348",
+      "Descripción": "SAN LUIS SPORT SIN GAS PFM 1000",
+      "Cantidad": 120
+    },
+    {
+      "Código": "751812",
+      "Descripción": "SMIRNOFF GREEN APPLE 700MLX01",
+      "Cantidad": 552
+    },
+    {
+      "Código": "751791",
+      "Descripción": "SMIRNOFF X1 SPICY TAMARINDO 700MLX01",
+      "Cantidad": 180
+    },
+    {
+      "Código": "751977",
+      "Descripción": "TORO SANTO PURO QUEBRANTA BOT 500ML X01 - TR",
+      "Cantidad": 396
+    }
+  ]
 }
