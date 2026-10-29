@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T08:11:56",
+  "updated_at": "2026-10-29T10:45:31",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -62,7 +62,7 @@
       "BASIS": 863,
       "SAP": 256983,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM LIMON PET S/G 625MLX15",
-      "STOCK PT": 30.07,
+      "STOCK PT": 120.07,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -110,7 +110,7 @@
       "BASIS": 1858,
       "SAP": 251604,
       "DESCRIPCIÓN": "SAN LUIS S/G PNR 1.5 LTX6",
-      "STOCK PT": 723.33,
+      "STOCK PT": 1227.33,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -366,7 +366,7 @@
       "BASIS": 1392,
       "SAP": 252566,
       "DESCRIPCIÓN": "COCA COLA 400 VR x20",
-      "STOCK PT": 161,
+      "STOCK PT": 241,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -422,7 +422,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 1877.83,
+      "STOCK PT": 2477.83,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -830,7 +830,7 @@
       "BASIS": 691,
       "SAP": 257049,
       "DESCRIPCIÓN": "FANTA NARANJA PET500x12 RF",
-      "STOCK PT": 238.5,
+      "STOCK PT": 488.5,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1278,7 +1278,7 @@
       "BASIS": 537,
       "SAP": 256813,
       "DESCRIPCIÓN": "INCA KOLA PET 1LX6 RF 2.0",
-      "STOCK PT": 296.83,
+      "STOCK PT": 536.83,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1294,7 +1294,7 @@
       "BASIS": 540,
       "SAP": 256816,
       "DESCRIPCIÓN": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "STOCK PT": 1323,
+      "STOCK PT": 1611,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1310,7 +1310,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 647.75,
+      "STOCK PT": 1187.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1318,7 +1318,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 2238.42,
+      "STOCK PT": 2838.42,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1977,5 +1977,81 @@
     "Familia": "Todos"
   },
   "fecha_ingresos": "29/10/2026",
-  "nuevos_ingresos": []
+  "nuevos_ingresos": [
+    {
+      "Código": "252566",
+      "Descripción": "COCA COLA 400 VR x20",
+      "Cantidad": 80
+    },
+    {
+      "Código": "256759",
+      "Descripción": "COCA COLA PET 600MLX12 RF",
+      "Cantidad": 600
+    },
+    {
+      "Código": "257049",
+      "Descripción": "FANTA NARANJA PET500x12 RF",
+      "Cantidad": 250
+    },
+    {
+      "Código": "256813",
+      "Descripción": "INCA KOLA PET 1LX6 RF 2.0",
+      "Cantidad": 240
+    },
+    {
+      "Código": "256816",
+      "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
+      "Cantidad": 288
+    },
+    {
+      "Código": "256790",
+      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
+      "Cantidad": 540
+    },
+    {
+      "Código": "256817",
+      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
+      "Cantidad": 600
+    },
+    {
+      "Código": "751783",
+      "Descripción": "JOHNNIE WALKER BLACK LABEL 750MLX01",
+      "Cantidad": 12
+    },
+    {
+      "Código": "751802",
+      "Descripción": "JOHNNIE WALKER RED LABEL 750MLX01",
+      "Cantidad": 240
+    },
+    {
+      "Código": "751973",
+      "Descripción": "PORTON MOSTO VERDE ITALIA BOT 750ML X01 - TR",
+      "Cantidad": 30
+    },
+    {
+      "Código": "256983",
+      "Descripción": "SAN LUIS EXPRIM LIMON PET S/G 625MLX15",
+      "Cantidad": 90
+    },
+    {
+      "Código": "251604",
+      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
+      "Cantidad": 504
+    },
+    {
+      "Código": "751812",
+      "Descripción": "SMIRNOFF GREEN APPLE 700MLX01",
+      "Cantidad": 552
+    },
+    {
+      "Código": "751791",
+      "Descripción": "SMIRNOFF X1 SPICY TAMARINDO 700MLX01",
+      "Cantidad": 180
+    },
+    {
+      "Código": "751977",
+      "Descripción": "TORO SANTO PURO QUEBRANTA BOT 500ML X01 - TR",
+      "Cantidad": 396
+    }
+  ]
 }
