@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:36:49",
+  "updated_at": "2026-10-30T11:31:49",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -38,7 +38,7 @@
       "BASIS": 1891,
       "SAP": 252323,
       "DESCRIPCIÓN": "SAN LUIS CON GAS PET625x15",
-      "STOCK PT": 8.07,
+      "STOCK PT": 98.07,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -46,7 +46,7 @@
       "BASIS": 5826,
       "SAP": 257075,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM ARANDANO PET 625MLX15",
-      "STOCK PT": 0.27,
+      "STOCK PT": 53.27,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -102,7 +102,7 @@
       "BASIS": 2059,
       "SAP": 256575,
       "DESCRIPCIÓN": "SAN LUIS S/G PFM 1.0 X6 TAPA PLANA",
-      "STOCK PT": 30.83,
+      "STOCK PT": 150.83,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -110,7 +110,7 @@
       "BASIS": 1858,
       "SAP": 251604,
       "DESCRIPCIÓN": "SAN LUIS S/G PNR 1.5 LTX6",
-      "STOCK PT": 787.33,
+      "STOCK PT": 1543.33,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -118,7 +118,7 @@
       "BASIS": 1660,
       "SAP": 254780,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS 500ML PET X12",
-      "STOCK PT": 57.83,
+      "STOCK PT": 197.83,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -142,7 +142,7 @@
       "BASIS": 39,
       "SAP": 257112,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 3LX06",
-      "STOCK PT": 568.83,
+      "STOCK PT": 658.83,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -350,7 +350,7 @@
       "BASIS": 1022,
       "SAP": 250416,
       "DESCRIPCIÓN": "COCA COLA 192 VRE x24",
-      "STOCK PT": 126.79,
+      "STOCK PT": 166.79,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -422,7 +422,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 1910.75,
+      "STOCK PT": 2510.75,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -502,7 +502,7 @@
       "BASIS": 1025,
       "SAP": 250421,
       "DESCRIPCIÓN": "COCA COLA VR1000x12",
-      "STOCK PT": 109.58,
+      "STOCK PT": 169.58,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -510,7 +510,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 318.5,
+      "STOCK PT": 498.5,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -558,7 +558,7 @@
       "BASIS": 832,
       "SAP": 256960,
       "DESCRIPCIÓN": "FURY GOLD STRIKE PET 350MLX12",
-      "STOCK PT": 30.67,
+      "STOCK PT": 62.67,
       "Familia": "Energizante",
       "Status": "En circulación"
     },
@@ -1134,7 +1134,7 @@
       "BASIS": 2120,
       "SAP": 256740,
       "DESCRIPCIÓN": "FRUGOS DEL VALLE FRESH NARANJA PET 3 LT X4",
-      "STOCK PT": 0.25,
+      "STOCK PT": 19.25,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1222,7 +1222,7 @@
       "BASIS": 2037,
       "SAP": 256500,
       "DESCRIPCIÓN": "INCA KOLA  PET 300MLX6-CRCG ET/PR ",
-      "STOCK PT": 129.83,
+      "STOCK PT": 229.83,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1310,7 +1310,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 934.75,
+      "STOCK PT": 1174.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1318,7 +1318,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 2287.92,
+      "STOCK PT": 2687.92,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1390,7 +1390,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 306.13,
+      "STOCK PT": 336.13,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1774,7 +1774,7 @@
       "BASIS": 21,
       "SAP": 257088,
       "DESCRIPCIÓN": "POWERADE FRUTAS PET 600MLX6 HF",
-      "STOCK PT": 0,
+      "STOCK PT": 209,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1950,7 +1950,7 @@
       "BASIS": 958,
       "SAP": 256919,
       "DESCRIPCIÓN": "SPRITE PET500x12 RF",
-      "STOCK PT": 1.75,
+      "STOCK PT": 126.75,
       "Familia": "Sprite",
       "Status": "En circulación"
     }
@@ -1977,5 +1977,96 @@
     "Familia": "Todos"
   },
   "fecha_ingresos": "30/10/2026",
-  "nuevos_ingresos": []
+  "nuevos_ingresos": [
+    {
+      "Código": "250416",
+      "Descripción": "COCA COLA 192 VRE x24",
+      "Cantidad": 40
+    },
+    {
+      "Código": "256759",
+      "Descripción": "COCA COLA PET 600MLX12 RF",
+      "Cantidad": 600
+    },
+    {
+      "Código": "250421",
+      "Descripción": "COCA COLA VR1000x12",
+      "Cantidad": 60
+    },
+    {
+      "Código": "250681",
+      "Descripción": "COCA COLA VR1500x08",
+      "Cantidad": 180
+    },
+    {
+      "Código": "256740",
+      "Descripción": "FRUGOS DEL VALLE FRESH NARANJA PET 3 LT X4",
+      "Cantidad": 20
+    },
+    {
+      "Código": "256960",
+      "Descripción": "FURY GOLD STRIKE PET 350MLX12",
+      "Cantidad": 32
+    },
+    {
+      "Código": "256500",
+      "Descripción": "INCA KOLA  PET 300MLX6-CRCG ET/PR",
+      "Cantidad": 100
+    },
+    {
+      "Código": "256790",
+      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
+      "Cantidad": 240
+    },
+    {
+      "Código": "256817",
+      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
+      "Cantidad": 400
+    },
+    {
+      "Código": "250033",
+      "Descripción": "INCA KOLA VR 1500 x08",
+      "Cantidad": 30
+    },
+    {
+      "Código": "257088",
+      "Descripción": "POWERADE FRUTAS PET 600MLX6 HF",
+      "Cantidad": 210
+    },
+    {
+      "Código": "252323",
+      "Descripción": "SAN LUIS CON GAS PET625x15",
+      "Cantidad": 90
+    },
+    {
+      "Código": "257075",
+      "Descripción": "SAN LUIS EXPRIM ARANDANO PET 625MLX15",
+      "Cantidad": 54
+    },
+    {
+      "Código": "256575",
+      "Descripción": "SAN LUIS S/G PFM 1.0 X6 TAPA PLANA",
+      "Cantidad": 120
+    },
+    {
+      "Código": "251604",
+      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
+      "Cantidad": 756
+    },
+    {
+      "Código": "254780",
+      "Descripción": "SAN LUIS SIN GAS 500ML PET X12",
+      "Cantidad": 140
+    },
+    {
+      "Código": "257112",
+      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
+      "Cantidad": 90
+    },
+    {
+      "Código": "256919",
+      "Descripción": "SPRITE PET500x12 RF",
+      "Cantidad": 125
+    }
+  ]
 }
