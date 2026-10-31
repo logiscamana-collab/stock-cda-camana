@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T21:26:31",
+  "updated_at": "2026-10-31T07:37:13",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1976,97 +1976,6 @@
     "Status": "En circulación",
     "Familia": "Todos"
   },
-  "fecha_ingresos": "30/10/2026",
-  "nuevos_ingresos": [
-    {
-      "Código": "250416",
-      "Descripción": "COCA COLA 192 VRE x24",
-      "Cantidad": 40
-    },
-    {
-      "Código": "256759",
-      "Descripción": "COCA COLA PET 600MLX12 RF",
-      "Cantidad": 600
-    },
-    {
-      "Código": "250421",
-      "Descripción": "COCA COLA VR1000x12",
-      "Cantidad": 60
-    },
-    {
-      "Código": "250681",
-      "Descripción": "COCA COLA VR1500x08",
-      "Cantidad": 180
-    },
-    {
-      "Código": "256740",
-      "Descripción": "FRUGOS DEL VALLE FRESH NARANJA PET 3 LT X4",
-      "Cantidad": 20
-    },
-    {
-      "Código": "256960",
-      "Descripción": "FURY GOLD STRIKE PET 350MLX12",
-      "Cantidad": 32
-    },
-    {
-      "Código": "256500",
-      "Descripción": "INCA KOLA  PET 300MLX6-CRCG ET/PR",
-      "Cantidad": 100
-    },
-    {
-      "Código": "256790",
-      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
-      "Cantidad": 240
-    },
-    {
-      "Código": "256817",
-      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
-      "Cantidad": 400
-    },
-    {
-      "Código": "250033",
-      "Descripción": "INCA KOLA VR 1500 x08",
-      "Cantidad": 30
-    },
-    {
-      "Código": "257088",
-      "Descripción": "POWERADE FRUTAS PET 600MLX6 HF",
-      "Cantidad": 210
-    },
-    {
-      "Código": "252323",
-      "Descripción": "SAN LUIS CON GAS PET625x15",
-      "Cantidad": 90
-    },
-    {
-      "Código": "257075",
-      "Descripción": "SAN LUIS EXPRIM ARANDANO PET 625MLX15",
-      "Cantidad": 54
-    },
-    {
-      "Código": "256575",
-      "Descripción": "SAN LUIS S/G PFM 1.0 X6 TAPA PLANA",
-      "Cantidad": 120
-    },
-    {
-      "Código": "251604",
-      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
-      "Cantidad": 756
-    },
-    {
-      "Código": "254780",
-      "Descripción": "SAN LUIS SIN GAS 500ML PET X12",
-      "Cantidad": 140
-    },
-    {
-      "Código": "257112",
-      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
-      "Cantidad": 90
-    },
-    {
-      "Código": "256919",
-      "Descripción": "SPRITE PET500x12 RF",
-      "Cantidad": 125
-    }
-  ]
+  "fecha_ingresos": "31/10/2026",
+  "nuevos_ingresos": []
 }
