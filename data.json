@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T09:54:33",
+  "updated_at": "2026-11-02T09:54:53",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -166,7 +166,7 @@
       "BASIS": 989,
       "SAP": 256783,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "STOCK PT": 1069.93,
+      "STOCK PT": 1429.93,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -406,7 +406,7 @@
       "BASIS": 301,
       "SAP": 256499,
       "DESCRIPCIÓN": "COCA COLA PET 300MLX6-CRCG ET/PR  ",
-      "STOCK PT": 277.67,
+      "STOCK PT": 627.67,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -422,7 +422,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 2775.75,
+      "STOCK PT": 2975.75,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -510,7 +510,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 427.5,
+      "STOCK PT": 727.5,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -774,7 +774,7 @@
       "BASIS": 695,
       "SAP": 257050,
       "DESCRIPCIÓN": "FANTA NARANJA PET 2.25X06 RF",
-      "STOCK PT": 118.67,
+      "STOCK PT": 238.67,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -790,7 +790,7 @@
       "BASIS": 689,
       "SAP": 257051,
       "DESCRIPCIÓN": "FANTA NARANJA PET 3LX4RF",
-      "STOCK PT": 177.25,
+      "STOCK PT": 237.25,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -830,7 +830,7 @@
       "BASIS": 691,
       "SAP": 257049,
       "DESCRIPCIÓN": "FANTA NARANJA PET500x12 RF",
-      "STOCK PT": 374.67,
+      "STOCK PT": 874.67,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1222,7 +1222,7 @@
       "BASIS": 2037,
       "SAP": 256500,
       "DESCRIPCIÓN": "INCA KOLA  PET 300MLX6-CRCG ET/PR ",
-      "STOCK PT": 110,
+      "STOCK PT": 460,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1278,7 +1278,7 @@
       "BASIS": 537,
       "SAP": 256813,
       "DESCRIPCIÓN": "INCA KOLA PET 1LX6 RF 2.0",
-      "STOCK PT": 485.83,
+      "STOCK PT": 605.83,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1294,7 +1294,7 @@
       "BASIS": 540,
       "SAP": 256816,
       "DESCRIPCIÓN": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "STOCK PT": 1200.5,
+      "STOCK PT": 1680.5,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1310,7 +1310,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 1005.75,
+      "STOCK PT": 1245.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1994,9 +1994,19 @@
       "Cantidad": 480
     },
     {
+      "Código": "256499",
+      "Descripción": "COCA COLA PET 300MLX6-CRCG ET/PR",
+      "Cantidad": 350
+    },
+    {
       "Código": "256524",
       "Descripción": "COCA COLA PET 3LT X4 RF",
       "Cantidad": 240
+    },
+    {
+      "Código": "256759",
+      "Descripción": "COCA COLA PET 600MLX12 RF",
+      "Cantidad": 200
     },
     {
       "Código": "250421",
@@ -2004,9 +2014,49 @@
       "Cantidad": 60
     },
     {
+      "Código": "250681",
+      "Descripción": "COCA COLA VR1500x08",
+      "Cantidad": 300
+    },
+    {
       "Código": "250418",
       "Descripción": "COCA COLA VR296x24",
       "Cantidad": 80
+    },
+    {
+      "Código": "257050",
+      "Descripción": "FANTA NARANJA PET 2.25X06 RF",
+      "Cantidad": 120
+    },
+    {
+      "Código": "257051",
+      "Descripción": "FANTA NARANJA PET 3LX4RF",
+      "Cantidad": 60
+    },
+    {
+      "Código": "257049",
+      "Descripción": "FANTA NARANJA PET500x12 RF",
+      "Cantidad": 500
+    },
+    {
+      "Código": "256500",
+      "Descripción": "INCA KOLA  PET 300MLX6-CRCG ET/PR",
+      "Cantidad": 350
+    },
+    {
+      "Código": "256813",
+      "Descripción": "INCA KOLA PET 1LX6 RF 2.0",
+      "Cantidad": 120
+    },
+    {
+      "Código": "256816",
+      "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
+      "Cantidad": 480
+    },
+    {
+      "Código": "256790",
+      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
+      "Cantidad": 240
     },
     {
       "Código": "250032",
@@ -2032,6 +2082,11 @@
       "Código": "257112",
       "Descripción": "SAN LUIS SIN GAS PET 3LX06",
       "Cantidad": 180
+    },
+    {
+      "Código": "256783",
+      "Descripción": "SAN LUIS SIN GAS PET 750 MLX15 ET",
+      "Cantidad": 360
     },
     {
       "Código": "252348",
