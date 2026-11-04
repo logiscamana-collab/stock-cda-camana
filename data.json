@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T11:18:07",
+  "updated_at": "2026-11-04T12:09:49",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -110,7 +110,7 @@
       "BASIS": 1858,
       "SAP": 251604,
       "DESCRIPCIÓN": "SAN LUIS S/G PNR 1.5 LTX6",
-      "STOCK PT": 3182.33,
+      "STOCK PT": 2846.33,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -678,7 +678,7 @@
       "BASIS": 5805,
       "SAP": 257080,
       "DESCRIPCIÓN": "FANTA KOLA INGLESA PET 300MLX12",
-      "STOCK PT": -2.58,
+      "STOCK PT": 22.42,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -942,7 +942,7 @@
       "BASIS": 685,
       "SAP": 257017,
       "DESCRIPCIÓN": "FDV BEB DURAZNO TBA 1.45LX8",
-      "STOCK PT": 2,
+      "STOCK PT": 82,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1054,7 +1054,7 @@
       "BASIS": 5211,
       "SAP": 256419,
       "DESCRIPCIÓN": "FRUGOS BEBIDA DZ. PT 1000X6",
-      "STOCK PT": 33.83,
+      "STOCK PT": 61.83,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1486,7 +1486,7 @@
       "BASIS": 5268,
       "SAP": 751783,
       "DESCRIPCIÓN": "JOHNNIE WALKER BLACK LABEL 750MLX01",
-      "STOCK PT": 438,
+      "STOCK PT": 426,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1638,7 +1638,7 @@
       "BASIS": 5315,
       "SAP": 751812,
       "DESCRIPCIÓN": "SMIRNOFF GREEN APPLE 700MLX01",
-      "STOCK PT": 1049,
+      "STOCK PT": 773,
       "Familia": "Licores",
       "Status": "En circulación"
     },
