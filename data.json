@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T20:16:28",
+  "updated_at": "2026-11-04T08:14:59",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1976,67 +1976,6 @@
     "Status": "En circulación",
     "Familia": "Todos"
   },
-  "fecha_ingresos": "03/11/2026",
-  "nuevos_ingresos": [
-    {
-      "Código": "250416",
-      "Descripción": "COCA COLA 192 VRE x24",
-      "Cantidad": 160
-    },
-    {
-      "Código": "256660",
-      "Descripción": "COCA COLA PET 2.5 LX6 RF.",
-      "Cantidad": 432
-    },
-    {
-      "Código": "256499",
-      "Descripción": "COCA COLA PET 300MLX6-CRCG ET/PR",
-      "Cantidad": 350
-    },
-    {
-      "Código": "257079",
-      "Descripción": "FANTA NARANJA PET 300X12 RF",
-      "Cantidad": 182
-    },
-    {
-      "Código": "256500",
-      "Descripción": "INCA KOLA  PET 300MLX6-CRCG ET/PR",
-      "Cantidad": 350
-    },
-    {
-      "Código": "256790",
-      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
-      "Cantidad": 240
-    },
-    {
-      "Código": "257088",
-      "Descripción": "POWERADE FRUTAS PET 600MLX6 HF",
-      "Cantidad": 420
-    },
-    {
-      "Código": "257096",
-      "Descripción": "POWERADE MORA PET 600MLX6 HF",
-      "Cantidad": 210
-    },
-    {
-      "Código": "251604",
-      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
-      "Cantidad": 840
-    },
-    {
-      "Código": "257087",
-      "Descripción": "SAN LUIS SIN GAS BID NO RET PET 7LTX1 - TR",
-      "Cantidad": 84
-    },
-    {
-      "Código": "256783",
-      "Descripción": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "Cantidad": 360
-    },
-    {
-      "Código": "252348",
-      "Descripción": "SAN LUIS SPORT SIN GAS PFM 1000",
-      "Cantidad": 240
-    }
-  ]
+  "fecha_ingresos": "04/11/2026",
+  "nuevos_ingresos": []
 }
