@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:09:49",
+  "updated_at": "2026-11-04T12:10:34",
   "source": "10 BEBIDA CAMANA OCTUBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -486,7 +486,7 @@
       "BASIS": 2206,
       "SAP": 257154,
       "DESCRIPCIÓN": "COCA COLA SIN AZUCAR PET 600MLX06",
-      "STOCK PT": 329,
+      "STOCK PT": 328.83,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -894,7 +894,7 @@
       "BASIS": 43,
       "SAP": 257126,
       "DESCRIPCIÓN": "FANTA UVA PET 500X12",
-      "STOCK PT": 15.329999999999998,
+      "STOCK PT": 15.079999999999998,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
