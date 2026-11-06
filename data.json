@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T20:21:01",
+  "updated_at": "2026-11-06T08:29:05",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1984,97 +1984,6 @@
     "Status": "En circulación",
     "Familia": "Todos"
   },
-  "fecha_ingresos": "05/11/2026",
-  "nuevos_ingresos": [
-    {
-      "Código": "256660",
-      "Descripción": "COCA COLA PET 2.5 LX6 RF.",
-      "Cantidad": 288
-    },
-    {
-      "Código": "250681",
-      "Descripción": "COCA COLA VR1500x08",
-      "Cantidad": 120
-    },
-    {
-      "Código": "250418",
-      "Descripción": "COCA COLA VR296x24",
-      "Cantidad": 40
-    },
-    {
-      "Código": "256995",
-      "Descripción": "FDV BEB DURAZNO TPA 970MLX12",
-      "Cantidad": 17
-    },
-    {
-      "Código": "256567",
-      "Descripción": "FRUGOS DEL VALLE FRESH PET 500MLX12",
-      "Cantidad": 140
-    },
-    {
-      "Código": "256790",
-      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
-      "Cantidad": 180
-    },
-    {
-      "Código": "752114",
-      "Descripción": "MONSTER ENERGY GREEN ZERO SUGAR 473MLX4",
-      "Cantidad": 60
-    },
-    {
-      "Código": "751544",
-      "Descripción": "MONSTER ENERGY ZERO SUGAR 473MLX4",
-      "Cantidad": 60
-    },
-    {
-      "Código": "257088",
-      "Descripción": "POWERADE FRUTAS PET 600MLX6 HF",
-      "Cantidad": 210
-    },
-    {
-      "Código": "256899",
-      "Descripción": "POWERADE MARACUYA PET 600ML X06",
-      "Cantidad": 45
-    },
-    {
-      "Código": "257097",
-      "Descripción": "POWERADE MORA PET 1LX6 RF HF",
-      "Cantidad": 60
-    },
-    {
-      "Código": "257096",
-      "Descripción": "POWERADE MORA PET 600MLX6 HF",
-      "Cantidad": 420
-    },
-    {
-      "Código": "257095",
-      "Descripción": "POWERADE MULTIFRUTAS PET 1LX06 HF",
-      "Cantidad": 120
-    },
-    {
-      "Código": "252323",
-      "Descripción": "SAN LUIS CON GAS PET625x15",
-      "Cantidad": 18
-    },
-    {
-      "Código": "257087",
-      "Descripción": "SAN LUIS SIN GAS BID NO RET PET 7LTX1 - TR",
-      "Cantidad": 84
-    },
-    {
-      "Código": "257112",
-      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
-      "Cantidad": 450
-    },
-    {
-      "Código": "256783",
-      "Descripción": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "Cantidad": 360
-    },
-    {
-      "Código": "252348",
-      "Descripción": "SAN LUIS SPORT SIN GAS PFM 1000",
-      "Cantidad": 480
-    }
-  ]
+  "fecha_ingresos": "06/11/2026",
+  "nuevos_ingresos": []
 }
