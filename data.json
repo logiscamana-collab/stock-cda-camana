@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:56:51",
+  "updated_at": "2026-11-07T10:58:38",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -38,7 +38,7 @@
       "BASIS": 1891,
       "SAP": 252323,
       "DESCRIPCIÓN": "SAN LUIS CON GAS PET625x15",
-      "STOCK PT": 28.6,
+      "STOCK PT": 118.6,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -62,7 +62,7 @@
       "BASIS": 863,
       "SAP": 256983,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM LIMON PET S/G 625MLX15",
-      "STOCK PT": 96.07,
+      "STOCK PT": 186.07,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -110,7 +110,7 @@
       "BASIS": 1858,
       "SAP": 251604,
       "DESCRIPCIÓN": "SAN LUIS S/G PNR 1.5 LTX6",
-      "STOCK PT": 1540.33,
+      "STOCK PT": 1876.33,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -118,7 +118,7 @@
       "BASIS": 1660,
       "SAP": 254780,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS 500ML PET X12",
-      "STOCK PT": 84.33,
+      "STOCK PT": 224.33,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -198,7 +198,7 @@
       "BASIS": 1892,
       "SAP": 252348,
       "DESCRIPCIÓN": "SAN LUIS SPORT SIN GAS PFM 1000",
-      "STOCK PT": 857.5,
+      "STOCK PT": 1337.5,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -342,7 +342,7 @@
       "BASIS": 6179,
       "SAP": 256668,
       "DESCRIPCIÓN": "COCA COLA 1.0 PET PQX6 RF",
-      "STOCK PT": 515.67,
+      "STOCK PT": 635.67,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -366,7 +366,7 @@
       "BASIS": 1392,
       "SAP": 252566,
       "DESCRIPCIÓN": "COCA COLA 400 VR x20",
-      "STOCK PT": 204.45,
+      "STOCK PT": 244.45,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -398,7 +398,7 @@
       "BASIS": 5242,
       "SAP": 256660,
       "DESCRIPCIÓN": "COCA COLA PET 2.5 LX6 RF.",
-      "STOCK PT": 1241.33,
+      "STOCK PT": 1721.33,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -422,7 +422,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 1412.67,
+      "STOCK PT": 1812.67,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -750,7 +750,7 @@
       "BASIS": 564,
       "SAP": 257062,
       "DESCRIPCIÓN": "FANTA NARANJA  VR 192 x24 RF",
-      "STOCK PT": 21.63,
+      "STOCK PT": 61.63,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -798,7 +798,7 @@
       "BASIS": 689,
       "SAP": 257051,
       "DESCRIPCIÓN": "FANTA NARANJA PET 3LX4RF",
-      "STOCK PT": 204.75,
+      "STOCK PT": 264.75,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1150,7 +1150,7 @@
       "BASIS": 824,
       "SAP": 256953,
       "DESCRIPCIÓN": "FRUGOS DEL VALLE FRESH NARANJAPET 350MLX20",
-      "STOCK PT": 41.8,
+      "STOCK PT": 221.8,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1318,7 +1318,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 1115.5,
+      "STOCK PT": 1355.5,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1398,7 +1398,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 192.13,
+      "STOCK PT": 312.13,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1878,7 +1878,7 @@
       "BASIS": 20,
       "SAP": 257096,
       "DESCRIPCIÓN": "POWERADE MORA PET 600MLX6 HF",
-      "STOCK PT": 212.83,
+      "STOCK PT": 422.83,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1942,7 +1942,7 @@
       "BASIS": 949,
       "SAP": 256905,
       "DESCRIPCIÓN": "SPRITE PET 2.25 X06  RF",
-      "STOCK PT": 274.17,
+      "STOCK PT": 394.17,
       "Familia": "Sprite",
       "Status": "En circulación"
     },
@@ -1985,5 +1985,86 @@
     "Familia": "Todos"
   },
   "fecha_ingresos": "07/11/2026",
-  "nuevos_ingresos": []
+  "nuevos_ingresos": [
+    {
+      "Código": "256668",
+      "Descripción": "COCA COLA 1.0 PET PQX6 RF",
+      "Cantidad": 120
+    },
+    {
+      "Código": "252566",
+      "Descripción": "COCA COLA 400 VR x20",
+      "Cantidad": 40
+    },
+    {
+      "Código": "256660",
+      "Descripción": "COCA COLA PET 2.5 LX6 RF.",
+      "Cantidad": 480
+    },
+    {
+      "Código": "256759",
+      "Descripción": "COCA COLA PET 600MLX12 RF",
+      "Cantidad": 400
+    },
+    {
+      "Código": "257062",
+      "Descripción": "FANTA NARANJA  VR 192 x24 RF",
+      "Cantidad": 40
+    },
+    {
+      "Código": "257051",
+      "Descripción": "FANTA NARANJA PET 3LX4RF",
+      "Cantidad": 60
+    },
+    {
+      "Código": "256953",
+      "Descripción": "FRUGOS DEL VALLE FRESH NARANJAPET 350MLX20",
+      "Cantidad": 180
+    },
+    {
+      "Código": "256790",
+      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
+      "Cantidad": 240
+    },
+    {
+      "Código": "250033",
+      "Descripción": "INCA KOLA VR 1500 x08",
+      "Cantidad": 120
+    },
+    {
+      "Código": "257096",
+      "Descripción": "POWERADE MORA PET 600MLX6 HF",
+      "Cantidad": 210
+    },
+    {
+      "Código": "252323",
+      "Descripción": "SAN LUIS CON GAS PET625x15",
+      "Cantidad": 90
+    },
+    {
+      "Código": "256983",
+      "Descripción": "SAN LUIS EXPRIM LIMON PET S/G 625MLX15",
+      "Cantidad": 90
+    },
+    {
+      "Código": "251604",
+      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
+      "Cantidad": 336
+    },
+    {
+      "Código": "254780",
+      "Descripción": "SAN LUIS SIN GAS 500ML PET X12",
+      "Cantidad": 140
+    },
+    {
+      "Código": "252348",
+      "Descripción": "SAN LUIS SPORT SIN GAS PFM 1000",
+      "Cantidad": 480
+    },
+    {
+      "Código": "256905",
+      "Descripción": "SPRITE PET 2.25 X06  RF",
+      "Cantidad": 120
+    }
+  ]
 }
