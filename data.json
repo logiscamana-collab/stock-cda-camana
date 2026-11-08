@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T20:25:42",
+  "updated_at": "2026-11-07T20:26:34",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -230,7 +230,7 @@
       "BASIS": 367,
       "SAP": 751903,
       "DESCRIPCIÓN": "AMSTEL RGB 600MLX12 PE CRATE",
-      "STOCK PT": -0.5,
+      "STOCK PT": 0,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -254,7 +254,7 @@
       "BASIS": 357,
       "SAP": 751595,
       "DESCRIPCIÓN": "HEINEKEN BNR 330 MLX06 HNS ",
-      "STOCK PT": 199.17,
+      "STOCK PT": 199.5,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -262,7 +262,7 @@
       "BASIS": 968,
       "SAP": 751641,
       "DESCRIPCIÓN": "HEINEKEN LATA 310 MLx6",
-      "STOCK PT": 293.17,
+      "STOCK PT": 300.67,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -302,7 +302,7 @@
       "BASIS": 360,
       "SAP": 751598,
       "DESCRIPCIÓN": "TRES CRUCES LAG LATA 473MLX06",
-      "STOCK PT": 159.5,
+      "STOCK PT": 162.67,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -310,7 +310,7 @@
       "BASIS": 836,
       "SAP": 751681,
       "DESCRIPCIÓN": "TRES CRUCES LAGER RGB 640MLX12",
-      "STOCK PT": 41.42,
+      "STOCK PT": 41.75,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -326,7 +326,7 @@
       "BASIS": 363,
       "SAP": 751601,
       "DESCRIPCIÓN": "TRES CRUCES LIGHT 473 ML LATA X6",
-      "STOCK PT": 23.83,
+      "STOCK PT": 19.67,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -422,7 +422,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 1594.25,
+      "STOCK PT": 1594.83,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -894,7 +894,7 @@
       "BASIS": 42,
       "SAP": 257125,
       "DESCRIPCIÓN": "FANTA UVA PET 300X12",
-      "STOCK PT": 0.42,
+      "STOCK PT": 10.42,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1326,7 +1326,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 1918.25,
+      "STOCK PT": 1922.25,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
