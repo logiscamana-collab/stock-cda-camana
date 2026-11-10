@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:57:01",
+  "updated_at": "2026-11-10T07:57:13",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1984,52 +1984,6 @@
     "Status": "En circulación",
     "Familia": "Todos"
   },
-  "fecha_ingresos": "09/11/2026",
-  "nuevos_ingresos": [
-    {
-      "Código": "256668",
-      "Descripción": "COCA COLA 1.0 PET PQX6 RF",
-      "Cantidad": 240
-    },
-    {
-      "Código": "256660",
-      "Descripción": "COCA COLA PET 2.5 LX6 RF.",
-      "Cantidad": 480
-    },
-    {
-      "Código": "256759",
-      "Descripción": "COCA COLA PET 600MLX12 RF",
-      "Cantidad": 400
-    },
-    {
-      "Código": "250421",
-      "Descripción": "COCA COLA VR1000x12",
-      "Cantidad": 180
-    },
-    {
-      "Código": "257049",
-      "Descripción": "FANTA NARANJA PET500x12 RF",
-      "Cantidad": 125
-    },
-    {
-      "Código": "256816",
-      "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "Cantidad": 480
-    },
-    {
-      "Código": "256790",
-      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
-      "Cantidad": 120
-    },
-    {
-      "Código": "256817",
-      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
-      "Cantidad": 300
-    },
-    {
-      "Código": "250033",
-      "Descripción": "INCA KOLA VR 1500 x08",
-      "Cantidad": 120
-    }
-  ]
+  "fecha_ingresos": "10/11/2026",
+  "nuevos_ingresos": []
 }
