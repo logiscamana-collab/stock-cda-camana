@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T10:48:51",
+  "updated_at": "2026-11-10T13:08:16",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1062,7 +1062,7 @@
       "BASIS": 5211,
       "SAP": 256419,
       "DESCRIPCIÓN": "FRUGOS BEBIDA DZ. PT 1000X6",
-      "STOCK PT": 6.33,
+      "STOCK PT": 34.33,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1158,7 +1158,7 @@
       "BASIS": 2055,
       "SAP": 256567,
       "DESCRIPCIÓN": "FRUGOS DEL VALLE FRESH PET 500MLX12",
-      "STOCK PT": 219.25,
+      "STOCK PT": 499.25,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1270,7 +1270,7 @@
       "BASIS": 538,
       "SAP": 256809,
       "DESCRIPCIÓN": "INCA KOLA PET 1.5LX6 RF 2.0",
-      "STOCK PT": -6.33,
+      "STOCK PT": 16.67,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
