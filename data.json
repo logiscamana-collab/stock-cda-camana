@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T08:13:10",
+  "updated_at": "2026-11-13T08:36:53",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -46,7 +46,7 @@
       "BASIS": 5826,
       "SAP": 257075,
       "DESCRIPCIÓN": "SAN LUIS EXPRIM ARANDANO PET 625MLX15",
-      "STOCK PT": 4.13,
+      "STOCK PT": 22.13,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -390,7 +390,7 @@
       "BASIS": 6183,
       "SAP": 256673,
       "DESCRIPCIÓN": "COCA COLA PET 1.5LX6 RF",
-      "STOCK PT": -8,
+      "STOCK PT": 15,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -558,7 +558,7 @@
       "BASIS": 832,
       "SAP": 256960,
       "DESCRIPCIÓN": "FURY GOLD STRIKE PET 350MLX12",
-      "STOCK PT": 3.83,
+      "STOCK PT": 35.83,
       "Familia": "Energizante",
       "Status": "En circulación"
     },
@@ -1030,7 +1030,7 @@
       "BASIS": 5154,
       "SAP": 254898,
       "DESCRIPCIÓN": "FRUGOS BEBIDA DURAZNO  TBA ML 235 X 24",
-      "STOCK PT": 25.88,
+      "STOCK PT": 109.88,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1062,7 +1062,7 @@
       "BASIS": 5211,
       "SAP": 256419,
       "DESCRIPCIÓN": "FRUGOS BEBIDA DZ. PT 1000X6",
-      "STOCK PT": 10.33,
+      "STOCK PT": 38.33,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1142,7 +1142,7 @@
       "BASIS": 2120,
       "SAP": 256740,
       "DESCRIPCIÓN": "FRUGOS DEL VALLE FRESH NARANJA PET 3 LT X4",
-      "STOCK PT": -7.25,
+      "STOCK PT": 11.75,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1174,7 +1174,7 @@
       "BASIS": 2081,
       "SAP": 256599,
       "DESCRIPCIÓN": "FRUGOS FR NAR PET 1.5X6",
-      "STOCK PT": -18.33,
+      "STOCK PT": 4.67,
       "Familia": "Frugos / Fresh",
       "Status": "En circulación"
     },
@@ -1830,7 +1830,7 @@
       "BASIS": 661,
       "SAP": 256899,
       "DESCRIPCIÓN": "POWERADE MARACUYA PET 600ML X06",
-      "STOCK PT": 3.33,
+      "STOCK PT": 48.33,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1854,7 +1854,7 @@
       "BASIS": 22,
       "SAP": 257097,
       "DESCRIPCIÓN": "POWERADE MORA PET 1LX6 RF HF",
-      "STOCK PT": 40.17,
+      "STOCK PT": 100.17,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1886,7 +1886,7 @@
       "BASIS": 19,
       "SAP": 257095,
       "DESCRIPCIÓN": "POWERADE MULTIFRUTAS PET 1LX06 HF",
-      "STOCK PT": -59.5,
+      "STOCK PT": 0.5,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
