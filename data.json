@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T08:51:28",
+  "updated_at": "2026-11-13T11:53:41",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -110,7 +110,7 @@
       "BASIS": 1858,
       "SAP": 251604,
       "DESCRIPCIÓN": "SAN LUIS S/G PNR 1.5 LTX6",
-      "STOCK PT": 1147.33,
+      "STOCK PT": 1987.33,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -142,7 +142,7 @@
       "BASIS": 39,
       "SAP": 257112,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 3LX06",
-      "STOCK PT": 812.83,
+      "STOCK PT": 992.83,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -166,7 +166,7 @@
       "BASIS": 989,
       "SAP": 256783,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "STOCK PT": 1092.47,
+      "STOCK PT": 1452.47,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -366,7 +366,7 @@
       "BASIS": 1392,
       "SAP": 252566,
       "DESCRIPCIÓN": "COCA COLA 400 VR x20",
-      "STOCK PT": 206.1,
+      "STOCK PT": 246.1,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -406,7 +406,7 @@
       "BASIS": 301,
       "SAP": 256499,
       "DESCRIPCIÓN": "COCA COLA PET 300MLX6-CRCG ET/PR  ",
-      "STOCK PT": 353.17,
+      "STOCK PT": 703.17,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -566,7 +566,7 @@
       "BASIS": 622,
       "SAP": 751315,
       "DESCRIPCIÓN": "MONSTER ENERGY 473MLX4",
-      "STOCK PT": 21.25,
+      "STOCK PT": 81.25,
       "Familia": "Energizante",
       "Status": "En circulación"
     },
@@ -590,7 +590,7 @@
       "BASIS": 636,
       "SAP": 751567,
       "DESCRIPCIÓN": "MONSTER ENERGY MANGO LOCO 473MLX4",
-      "STOCK PT": 1.75,
+      "STOCK PT": 60.75,
       "Familia": "Energizante",
       "Status": "En circulación"
     },
@@ -790,7 +790,7 @@
       "BASIS": 5798,
       "SAP": 257079,
       "DESCRIPCIÓN": "FANTA NARANJA PET 300X12 RF ",
-      "STOCK PT": 115.5,
+      "STOCK PT": 297.5,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1230,7 +1230,7 @@
       "BASIS": 2037,
       "SAP": 256500,
       "DESCRIPCIÓN": "INCA KOLA  PET 300MLX6-CRCG ET/PR ",
-      "STOCK PT": 178.17,
+      "STOCK PT": 528.17,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1318,7 +1318,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 973.5,
+      "STOCK PT": 1213.5,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1326,7 +1326,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 1209.58,
+      "STOCK PT": 1409.58,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1390,7 +1390,7 @@
       "BASIS": 103,
       "SAP": 250032,
       "DESCRIPCIÓN": "INCA KOLA VR 1000 x12",
-      "STOCK PT": 87.08,
+      "STOCK PT": 267.08,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1398,7 +1398,7 @@
       "BASIS": 155,
       "SAP": 250033,
       "DESCRIPCIÓN": "INCA KOLA VR 1500 x08",
-      "STOCK PT": 333.75,
+      "STOCK PT": 453.75,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1406,7 +1406,7 @@
       "BASIS": 102,
       "SAP": 250030,
       "DESCRIPCIÓN": "INCA KOLA VR 296 x24",
-      "STOCK PT": 145.21,
+      "STOCK PT": 185.21,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1430,7 +1430,7 @@
       "BASIS": 11,
       "SAP": 257104,
       "DESCRIPCIÓN": "INCA KOLA VR 625MLX12 - TP ROSCA-V2",
-      "STOCK PT": 5.67,
+      "STOCK PT": 55.67,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1830,7 +1830,7 @@
       "BASIS": 661,
       "SAP": 256899,
       "DESCRIPCIÓN": "POWERADE MARACUYA PET 600ML X06",
-      "STOCK PT": 48.33,
+      "STOCK PT": 93.33,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1886,7 +1886,7 @@
       "BASIS": 19,
       "SAP": 257095,
       "DESCRIPCIÓN": "POWERADE MULTIFRUTAS PET 1LX06 HF",
-      "STOCK PT": 0.5,
+      "STOCK PT": 59.5,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1985,5 +1985,91 @@
     "Familia": "Todos"
   },
   "fecha_ingresos": "13/11/2026",
-  "nuevos_ingresos": []
+  "nuevos_ingresos": [
+    {
+      "Código": "252566",
+      "Descripción": "COCA COLA 400 VR x20",
+      "Cantidad": 40
+    },
+    {
+      "Código": "256499",
+      "Descripción": "COCA COLA PET 300MLX6-CRCG ET/PR",
+      "Cantidad": 350
+    },
+    {
+      "Código": "257079",
+      "Descripción": "FANTA NARANJA PET 300X12 RF",
+      "Cantidad": 182
+    },
+    {
+      "Código": "256500",
+      "Descripción": "INCA KOLA  PET 300MLX6-CRCG ET/PR",
+      "Cantidad": 350
+    },
+    {
+      "Código": "256790",
+      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
+      "Cantidad": 240
+    },
+    {
+      "Código": "256817",
+      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
+      "Cantidad": 200
+    },
+    {
+      "Código": "250032",
+      "Descripción": "INCA KOLA VR 1000 x12",
+      "Cantidad": 180
+    },
+    {
+      "Código": "250033",
+      "Descripción": "INCA KOLA VR 1500 x08",
+      "Cantidad": 120
+    },
+    {
+      "Código": "250030",
+      "Descripción": "INCA KOLA VR 296 x24",
+      "Cantidad": 40
+    },
+    {
+      "Código": "257104",
+      "Descripción": "INCA KOLA VR 625MLX12 - TP ROSCA-V2",
+      "Cantidad": 50
+    },
+    {
+      "Código": "751315",
+      "Descripción": "MONSTER ENERGY 473MLX4",
+      "Cantidad": 60
+    },
+    {
+      "Código": "751567",
+      "Descripción": "MONSTER ENERGY MANGO LOCO 473MLX4",
+      "Cantidad": 60
+    },
+    {
+      "Código": "256899",
+      "Descripción": "POWERADE MARACUYA PET 600ML X06",
+      "Cantidad": 45
+    },
+    {
+      "Código": "257095",
+      "Descripción": "POWERADE MULTIFRUTAS PET 1LX06 HF",
+      "Cantidad": 60
+    },
+    {
+      "Código": "251604",
+      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
+      "Cantidad": 840
+    },
+    {
+      "Código": "257112",
+      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
+      "Cantidad": 180
+    },
+    {
+      "Código": "256783",
+      "Descripción": "SAN LUIS SIN GAS PET 750 MLX15 ET",
+      "Cantidad": 360
+    }
+  ]
 }
