@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:12:05",
+  "updated_at": "2026-11-17T17:13:57",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -278,7 +278,7 @@
       "BASIS": 919,
       "SAP": 751645,
       "DESCRIPCIÓN": "HEINEKEN RGB 600 MLX12",
-      "STOCK PT": 0.75,
+      "STOCK PT": 263.75,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -302,7 +302,7 @@
       "BASIS": 360,
       "SAP": 751598,
       "DESCRIPCIÓN": "TRES CRUCES LAG LATA 473MLX06",
-      "STOCK PT": 82.67,
+      "STOCK PT": 376.67,
       "Familia": "Cerveza",
       "Status": "En circulación"
     },
@@ -1534,7 +1534,7 @@
       "BASIS": 5270,
       "SAP": 751802,
       "DESCRIPCIÓN": "JOHNNIE WALKER RED LABEL 750MLX01",
-      "STOCK PT": 333,
+      "STOCK PT": 705,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -1678,7 +1678,7 @@
       "BASIS": 5289,
       "SAP": 751791,
       "DESCRIPCIÓN": "SMIRNOFF X1 SPICY TAMARINDO 700MLX01",
-      "STOCK PT": 323,
+      "STOCK PT": 425,
       "Familia": "Licores",
       "Status": "En circulación"
     },
@@ -2037,6 +2037,11 @@
       "Cantidad": 32
     },
     {
+      "Código": "751645",
+      "Descripción": "HEINEKEN RGB 600 MLX12",
+      "Cantidad": 264
+    },
+    {
       "Código": "250029",
       "Descripción": "INCA KOLA 192 VRE x24",
       "Cantidad": 120
@@ -2070,6 +2075,11 @@
       "Código": "257157",
       "Descripción": "INCA KOLA SIN AZUCAR PET 600MLX06",
       "Cantidad": 100
+    },
+    {
+      "Código": "751802",
+      "Descripción": "JOHNNIE WALKER RED LABEL 750MLX01",
+      "Cantidad": 372
     },
     {
       "Código": "257088",
@@ -2125,6 +2135,16 @@
       "Código": "252348",
       "Descripción": "SAN LUIS SPORT SIN GAS PFM 1000",
       "Cantidad": 360
+    },
+    {
+      "Código": "751791",
+      "Descripción": "SMIRNOFF X1 SPICY TAMARINDO 700MLX01",
+      "Cantidad": 102
+    },
+    {
+      "Código": "751598",
+      "Descripción": "TRES CRUCES LAG LATA 473MLX06",
+      "Cantidad": 294
     }
   ]
 }
