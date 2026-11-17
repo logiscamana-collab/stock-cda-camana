@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T12:46:32",
+  "updated_at": "2026-11-17T17:12:05",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -166,7 +166,7 @@
       "BASIS": 989,
       "SAP": 256783,
       "DESCRIPCIÓN": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "STOCK PT": 1734.2,
+      "STOCK PT": 2334.2,
       "Familia": "Agua",
       "Status": "En circulación"
     },
@@ -414,7 +414,7 @@
       "BASIS": 1627,
       "SAP": 256524,
       "DESCRIPCIÓN": "COCA COLA PET 3LT X4 RF ",
-      "STOCK PT": 820,
+      "STOCK PT": 1060,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -422,7 +422,7 @@
       "BASIS": 910,
       "SAP": 256759,
       "DESCRIPCIÓN": "COCA COLA PET 600MLX12 RF",
-      "STOCK PT": 1124.83,
+      "STOCK PT": 1524.83,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -510,7 +510,7 @@
       "BASIS": 1038,
       "SAP": 250681,
       "DESCRIPCIÓN": "COCA COLA VR1500x08",
-      "STOCK PT": 575.25,
+      "STOCK PT": 695.25,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -1302,7 +1302,7 @@
       "BASIS": 540,
       "SAP": 256816,
       "DESCRIPCIÓN": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "STOCK PT": 1474.83,
+      "STOCK PT": 1714.83,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1318,7 +1318,7 @@
       "BASIS": 291,
       "SAP": 256790,
       "DESCRIPCIÓN": "INCA KOLA PET 3LX04-RF 2.0",
-      "STOCK PT": 924.25,
+      "STOCK PT": 1044.25,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1326,7 +1326,7 @@
       "BASIS": 593,
       "SAP": 256817,
       "DESCRIPCIÓN": "INCA KOLA PET 600ML X12 RF 2.0",
-      "STOCK PT": 1876.83,
+      "STOCK PT": 2276.83,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
@@ -1878,7 +1878,7 @@
       "BASIS": 20,
       "SAP": 257096,
       "DESCRIPCIÓN": "POWERADE MORA PET 600MLX6 HF",
-      "STOCK PT": 121.33,
+      "STOCK PT": 751.33,
       "Familia": "Powerade",
       "Status": "En circulación"
     },
@@ -1997,6 +1997,16 @@
       "Cantidad": 672
     },
     {
+      "Código": "256524",
+      "Descripción": "COCA COLA PET 3LT X4 RF",
+      "Cantidad": 240
+    },
+    {
+      "Código": "256759",
+      "Descripción": "COCA COLA PET 600MLX12 RF",
+      "Cantidad": 400
+    },
+    {
       "Código": "257154",
       "Descripción": "COCA COLA SIN AZUCAR PET 600MLX06",
       "Cantidad": 50
@@ -2004,7 +2014,7 @@
     {
       "Código": "250681",
       "Descripción": "COCA COLA VR1500x08",
-      "Cantidad": 120
+      "Cantidad": 240
     },
     {
       "Código": "257049",
@@ -2044,7 +2054,17 @@
     {
       "Código": "256816",
       "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "Cantidad": 384
+      "Cantidad": 624
+    },
+    {
+      "Código": "256790",
+      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
+      "Cantidad": 120
+    },
+    {
+      "Código": "256817",
+      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
+      "Cantidad": 400
     },
     {
       "Código": "257157",
@@ -2065,6 +2085,11 @@
       "Código": "257097",
       "Descripción": "POWERADE MORA PET 1LX6 RF HF",
       "Cantidad": 30
+    },
+    {
+      "Código": "257096",
+      "Descripción": "POWERADE MORA PET 600MLX6 HF",
+      "Cantidad": 630
     },
     {
       "Código": "256983",
@@ -2094,7 +2119,7 @@
     {
       "Código": "256783",
       "Descripción": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "Cantidad": 300
+      "Cantidad": 900
     },
     {
       "Código": "252348",
