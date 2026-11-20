@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T20:49:38",
+  "updated_at": "2026-11-20T09:36:07",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1984,117 +1984,6 @@
     "Status": "En circulación",
     "Familia": "Todos"
   },
-  "fecha_ingresos": "19/11/2026",
-  "nuevos_ingresos": [
-    {
-      "Código": "256668",
-      "Descripción": "COCA COLA 1.0 PET PQX6 RF",
-      "Cantidad": 120
-    },
-    {
-      "Código": "256660",
-      "Descripción": "COCA COLA PET 2.5 LX6 RF.",
-      "Cantidad": 528
-    },
-    {
-      "Código": "256524",
-      "Descripción": "COCA COLA PET 3LT X4 RF",
-      "Cantidad": 240
-    },
-    {
-      "Código": "256759",
-      "Descripción": "COCA COLA PET 600MLX12 RF",
-      "Cantidad": 400
-    },
-    {
-      "Código": "257154",
-      "Descripción": "COCA COLA SIN AZUCAR PET 600MLX06",
-      "Cantidad": 100
-    },
-    {
-      "Código": "250421",
-      "Descripción": "COCA COLA VR1000x12",
-      "Cantidad": 60
-    },
-    {
-      "Código": "250681",
-      "Descripción": "COCA COLA VR1500x08",
-      "Cantidad": 60
-    },
-    {
-      "Código": "250418",
-      "Descripción": "COCA COLA VR296x24",
-      "Cantidad": 80
-    },
-    {
-      "Código": "257051",
-      "Descripción": "FANTA NARANJA PET 3LX4RF",
-      "Cantidad": 60
-    },
-    {
-      "Código": "257049",
-      "Descripción": "FANTA NARANJA PET500x12 RF",
-      "Cantidad": 125
-    },
-    {
-      "Código": "256813",
-      "Descripción": "INCA KOLA PET 1LX6 RF 2.0",
-      "Cantidad": 120
-    },
-    {
-      "Código": "256816",
-      "Descripción": "INCA KOLA PET 2.5LX6 RF 2.0",
-      "Cantidad": 672
-    },
-    {
-      "Código": "256790",
-      "Descripción": "INCA KOLA PET 3LX04-RF 2.0",
-      "Cantidad": 420
-    },
-    {
-      "Código": "256817",
-      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
-      "Cantidad": 300
-    },
-    {
-      "Código": "250032",
-      "Descripción": "INCA KOLA VR 1000 x12",
-      "Cantidad": 90
-    },
-    {
-      "Código": "250033",
-      "Descripción": "INCA KOLA VR 1500 x08",
-      "Cantidad": 150
-    },
-    {
-      "Código": "257088",
-      "Descripción": "POWERADE FRUTAS PET 600MLX6 HF",
-      "Cantidad": 210
-    },
-    {
-      "Código": "257096",
-      "Descripción": "POWERADE MORA PET 600MLX6 HF",
-      "Cantidad": 210
-    },
-    {
-      "Código": "256970",
-      "Descripción": "SAN LUIS EXPRIM MANZANA C/G 625MLX15",
-      "Cantidad": 90
-    },
-    {
-      "Código": "251604",
-      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
-      "Cantidad": 1344
-    },
-    {
-      "Código": "254780",
-      "Descripción": "SAN LUIS SIN GAS 500ML PET X12",
-      "Cantidad": 140
-    },
-    {
-      "Código": "256783",
-      "Descripción": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "Cantidad": 120
-    }
-  ]
+  "fecha_ingresos": "20/11/2026",
+  "nuevos_ingresos": []
 }
