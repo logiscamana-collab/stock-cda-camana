@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T19:40:43",
+  "updated_at": "2026-11-21T08:17:53",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -1984,72 +1984,6 @@
     "Status": "En circulación",
     "Familia": "Todos"
   },
-  "fecha_ingresos": "20/11/2026",
-  "nuevos_ingresos": [
-    {
-      "Código": "250421",
-      "Descripción": "COCA COLA VR1000x12",
-      "Cantidad": 30
-    },
-    {
-      "Código": "250681",
-      "Descripción": "COCA COLA VR1500x08",
-      "Cantidad": 60
-    },
-    {
-      "Código": "256567",
-      "Descripción": "FRUGOS DEL VALLE FRESH PET 500MLX12",
-      "Cantidad": 140
-    },
-    {
-      "Código": "256809",
-      "Descripción": "INCA KOLA PET 1.5LX6 RF 2.0",
-      "Cantidad": 24
-    },
-    {
-      "Código": "256817",
-      "Descripción": "INCA KOLA PET 600ML X12 RF 2.0",
-      "Cantidad": 200
-    },
-    {
-      "Código": "250032",
-      "Descripción": "INCA KOLA VR 1000 x12",
-      "Cantidad": 60
-    },
-    {
-      "Código": "250033",
-      "Descripción": "INCA KOLA VR 1500 x08",
-      "Cantidad": 60
-    },
-    {
-      "Código": "752114",
-      "Descripción": "MONSTER ENERGY GREEN ZERO SUGAR 473MLX4",
-      "Cantidad": 60
-    },
-    {
-      "Código": "251604",
-      "Descripción": "SAN LUIS S/G PNR 1.5 LTX6",
-      "Cantidad": 1512
-    },
-    {
-      "Código": "257112",
-      "Descripción": "SAN LUIS SIN GAS PET 3LX06",
-      "Cantidad": 180
-    },
-    {
-      "Código": "256783",
-      "Descripción": "SAN LUIS SIN GAS PET 750 MLX15 ET",
-      "Cantidad": 420
-    },
-    {
-      "Código": "252348",
-      "Descripción": "SAN LUIS SPORT SIN GAS PFM 1000",
-      "Cantidad": 120
-    },
-    {
-      "Código": "256905",
-      "Descripción": "SPRITE PET 2.25 X06  RF",
-      "Cantidad": 60
-    }
-  ]
+  "fecha_ingresos": "21/11/2026",
+  "nuevos_ingresos": []
 }
