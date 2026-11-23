@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T07:40:55",
+  "updated_at": "2026-11-23T07:42:00",
   "source": "11 BEBIDA CAMANA NOVIEMBRE 2026 S.I.xlsx",
   "rows": [
     {
@@ -334,7 +334,7 @@
       "BASIS": 6181,
       "SAP": 256671,
       "DESCRIPCIÓN": "COCA COLA  PR 2L X 8  RF",
-      "STOCK PT": 2.88,
+      "STOCK PT": 2.63,
       "Familia": "Coca Cola",
       "Status": "En circulación"
     },
@@ -790,7 +790,7 @@
       "BASIS": 5798,
       "SAP": 257079,
       "DESCRIPCIÓN": "FANTA NARANJA PET 300X12 RF ",
-      "STOCK PT": 185.92,
+      "STOCK PT": 184.92,
       "Familia": "Fanta",
       "Status": "En circulación"
     },
@@ -1254,7 +1254,7 @@
       "BASIS": 123,
       "SAP": 250029,
       "DESCRIPCIÓN": "INCA KOLA 192 VRE x24",
-      "STOCK PT": 101.42,
+      "STOCK PT": 99.42,
       "Familia": "Inca Kola",
       "Status": "En circulación"
     },
